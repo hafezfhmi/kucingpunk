@@ -5,10 +5,10 @@ import Image from 'next/image';
 
 function Header() {
   return (
-    <header className={styles.container}>
+    <header className={styles.Header}>
       <h1 className={utilStyles.headingXL}>KucingPunk</h1>
 
-      <div className={styles.subContainer}>
+      <div className={styles.container}>
         <Image
           src="/images/cat.gif"
           height="500"
