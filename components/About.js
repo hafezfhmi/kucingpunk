@@ -21,8 +21,8 @@ function About() {
           </p>
           <hr className={styles.horizontalShort} />
           <p>
-            All KucingPunk will be minted on pentas.io and a total of 470 will
-            be made available for sale.
+            All KucingPunk will be minted on pentas.io and a total of 470 NFT
+            will be made available for sale.
           </p>
         </div>
         <div className={styles.subContainerRight}>
