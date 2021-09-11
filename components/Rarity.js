@@ -3,7 +3,7 @@ import utilStyles from '../styles/Utils.module.scss';
 
 function Rarity() {
   return (
-    <div>
+    <div className={utilStyles.margin2TopBot}>
       <Button url="/rarity" buttonType="rarity">
         Meowarity
       </Button>

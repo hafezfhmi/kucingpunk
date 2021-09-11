@@ -1,14 +1,15 @@
 import styles from '../styles/BigImages.module.scss';
+import utilStyles from '../styles/Utils.module.scss';
 import Image from 'next/image';
 
 function BigImages() {
   return (
-    <div className={styles.BigImages}>
+    <div className={styles.BigImages + ' ' + utilStyles.margin2TopBot}>
       <Image
-        src="/images/catBig.jpg"
-        width="1000"
-        height="1000"
-        layout="fixed"
+        src="/images/catImageBig.jpg"
+        width="1995"
+        height="4504"
+        layout="responsive"
         className={styles.images}
       ></Image>
     </div>

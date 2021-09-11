@@ -15,10 +15,19 @@
     font-size: 2rem;
     font-weight: 500;
   }
+
+  &XXS {
+    font-size: 1.5rem;
+    font-weight: 400;
+  }
 }
 
 .margin {
   &Neg2Top {
     margin-top: -2rem;
+  }
+
+  &2TopBot {
+    margin: 3rem 0;
   }
 }

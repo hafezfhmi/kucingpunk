@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 function About() {
   return (
-    <section className={styles.About}>
+    <section className={styles.About + ' ' + utilStyles.margin2TopBot}>
       <h2 className={utilStyles.headingL}>Meowhat?</h2>
       <h3 className={utilStyles.headingXS + ' ' + utilStyles.marginNeg2Top}>
         *Read: What?
@@ -26,7 +26,7 @@ function About() {
           </p>
         </div>
         <div className={styles.subContainerRight}>
-          <Image src="/images/cat.gif" height="400" width="400"></Image>
+          <Image src="/images/Cat1.jpg" height="400" width="400"></Image>
         </div>
       </div>
     </section>
