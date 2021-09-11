@@ -1,10 +1,12 @@
+@import 'variables';
+
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: 'Poppins', sans-serif;
-  color: #111;
-  background-color: #eee;
+  color: $black;
+  background-color: $white;
   overflow-x: hidden;
 }
 

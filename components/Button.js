@@ -1,4 +1,5 @@
 import styles from '../styles/Button.module.scss';
+import utilStyles from '../styles/Utils.module.scss';
 import Link from 'next/link';
 
 function Button({ url, buttonType, children }) {
@@ -8,10 +9,10 @@ function Button({ url, buttonType, children }) {
         {children}
       </a>
     );
-  } else if (buttonType == 'checkRarity') {
+  } else if (buttonType == 'rarity') {
     return (
       <Link href="/rarityCheck">
-        <a className={styles.buttonBuy}>Check rarity</a>
+        <a className={styles.rarity + ' ' + utilStyles.headingL}>{children}</a>
       </Link>
     );
   }

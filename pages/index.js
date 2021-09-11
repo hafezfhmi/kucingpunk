@@ -2,8 +2,10 @@ import Head from 'next/head';
 import Image from 'next/image';
 import About from '../components/About';
 import BigImages from '../components/BigImages';
+import Footer from '../components/Footer';
 import Header from '../components/Header';
 import Layout from '../components/Layout';
+import Rarity from '../components/Rarity';
 
 export default function Home() {
   return (
@@ -19,6 +21,8 @@ export default function Home() {
       <Header />
       <About />
       <BigImages />
+      <Rarity />
+      <Footer />
     </Layout>
   );
 }

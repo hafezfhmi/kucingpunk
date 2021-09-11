@@ -1,0 +1,32 @@
+@import 'variables';
+
+.Footer {
+  border-top: 2px solid $black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  & p {
+    font-size: 2rem;
+  }
+}
+
+.socials {
+  display: flex;
+  align-items: center;
+
+  p {
+    margin: 0 3rem;
+  }
+}
+
+.socials a {
+  display: block;
+  transition: all 0.8s;
+  transform: translateX(0);
+
+  &:hover {
+    color: $color-primary;
+    transform: translateX(-50%);
+  }
+}

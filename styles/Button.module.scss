@@ -1,15 +1,18 @@
-.button {
-  &Default {
-    background-color: gray;
-    padding: 0.5rem 2rem;
-    border-radius: 25px;
+.default {
+  background-color: gray;
+  padding: 0.5rem 2rem;
+  border-radius: 25px;
+}
+
+.rarity {
+  &::after {
+    content: '\2192';
+    transition: all 0.8s;
+    margin-left: 2rem;
   }
 
-  &Buy {
-    border: 1px solid #555;
-    padding: 0.5rem 1.5rem;
-    border-radius: 25px;
-    font-size: 1.7rem;
-    margin: 0.5rem 0;
+  &:hover::after {
+    position: absolute;
+    margin-left: 6rem;
   }
 }
