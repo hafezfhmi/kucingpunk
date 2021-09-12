@@ -11,7 +11,7 @@ function Button({ url, buttonType, children }) {
     );
   } else if (buttonType == 'rarity') {
     return (
-      <Link href="/rarityCheck">
+      <Link href="/rarity">
         <a className={styles.rarity + ' ' + utilStyles.headingL}>{children}</a>
       </Link>
     );

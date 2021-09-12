@@ -1,0 +1,26 @@
+.Item {
+  display: flex;
+}
+
+.container {
+  margin: 0 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  h1 {
+    font-size: 2rem;
+    font-weight: 500;
+    margin: 0;
+  }
+
+  ul {
+    padding-left: 0;
+  }
+
+  li {
+    font-size: 1.1rem;
+    list-style: none;
+    line-height: 2rem;
+  }
+}

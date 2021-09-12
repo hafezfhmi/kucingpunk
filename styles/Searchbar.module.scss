@@ -1,0 +1,22 @@
+@import 'variables';
+
+.Searchbar {
+  width: 40%;
+  font-size: 3rem;
+  font-family: inherit;
+  background-color: $white;
+  border: none;
+  border-bottom: 2px solid $black;
+  outline: none;
+  transition: all 0.8s;
+}
+
+.Searchbar::-webkit-outer-spin-button,
+.Searchbar::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.Searchbar[type='number'] {
+  -moz-appearance: textfield;
+}

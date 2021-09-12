@@ -13,6 +13,7 @@ function Header() {
           height="500"
           width="500"
           alt="CatPunk gif"
+          loading="eager"
           className={styles.mainImg}
         />
         <div className={styles.text1 + ' ' + styles.scroll}>

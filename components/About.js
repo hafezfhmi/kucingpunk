@@ -30,6 +30,7 @@ function About() {
             src="/images/Cat1.jpg"
             height="400"
             width="400"
+            loading="eager"
             alt="Picture of a cat"
           ></Image>
         </div>
