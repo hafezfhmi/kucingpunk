@@ -1,4 +1,3 @@
-import React, { Fragment } from 'react';
 import styles from '../styles/Layout.module.scss';
 import Footer from './Footer';
 import Navbar from './Navbar';

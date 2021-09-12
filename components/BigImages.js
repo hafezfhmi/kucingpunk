@@ -11,6 +11,7 @@ function BigImages() {
         height="4504"
         layout="responsive"
         className={styles.images}
+        alt="KucingPunk pictures"
       ></Image>
     </div>
   );

@@ -26,7 +26,12 @@ function About() {
           </p>
         </div>
         <div className={styles.subContainerRight}>
-          <Image src="/images/Cat1.jpg" height="400" width="400"></Image>
+          <Image
+            src="/images/Cat1.jpg"
+            height="400"
+            width="400"
+            alt="Picture of a cat"
+          ></Image>
         </div>
       </div>
     </section>

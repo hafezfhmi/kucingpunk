@@ -1,9 +1,7 @@
 import Head from 'next/head';
-import Image from 'next/image';
 import About from '../components/About';
 import BigImages from '../components/BigImages';
 import Header from '../components/Header';
-import Layout from '../components/Layout';
 import Rarity from '../components/Rarity';
 
 export default function Home() {

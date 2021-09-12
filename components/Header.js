@@ -1,6 +1,5 @@
 import styles from '../styles/Header.module.scss';
 import utilStyles from '../styles/Utils.module.scss';
-import Button from './Button';
 import Image from 'next/image';
 
 function Header() {
