@@ -6,7 +6,7 @@ function BigImages() {
   return (
     <div className={styles.BigImages + ' ' + utilStyles.margin2TopBot}>
       <Image
-        src="/images/catImageBig.png"
+        src="/images/BigImage.png"
         width="1995"
         height="4504"
         layout="responsive"

@@ -27,7 +27,7 @@ function About() {
         </div>
         <div className={styles.subContainerRight}>
           <Image
-            src="/images/Cat1.jpg"
+            src="/images/Cat1.png"
             height="400"
             width="400"
             loading="eager"
