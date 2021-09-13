@@ -9,10 +9,10 @@ function Button({ url, buttonType, children }) {
         {children}
       </a>
     );
-  } else if (buttonType == 'rarity') {
+  } else if (buttonType == 'bigLink') {
     return (
-      <Link href="/rarity">
-        <a className={styles.rarity + ' ' + utilStyles.headingL}>{children}</a>
+      <Link href={url}>
+        <a className={styles.bigLink + ' ' + utilStyles.headingL}>{children}</a>
       </Link>
     );
   }
