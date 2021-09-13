@@ -1,0 +1,3017 @@
+[
+  {
+    "id": 1,
+    "attributes": ["Pak Tam"],
+    "sumRarityScore": 12.820512820512821,
+    "rank": 494
+  },
+  {
+    "id": 2,
+    "attributes": ["Itam Acik", "Straw Hat", "MLG Glass"],
+    "sumRarityScore": 42.458920187793424,
+    "rank": 200
+  },
+  {
+    "id": 3,
+    "attributes": ["Itam Along", "Night Vision Goggles"],
+    "sumRarityScore": 63.513513513513516,
+    "rank": 68
+  },
+  {
+    "id": 4,
+    "attributes": ["Koko Comel", "Eyepatch"],
+    "sumRarityScore": 14.287481444829293,
+    "rank": 488
+  },
+  {
+    "id": 5,
+    "attributes": ["Tompok Comot", "Eyepatch"],
+    "sumRarityScore": 15.480087288597927,
+    "rank": 485
+  },
+  {
+    "id": 6,
+    "attributes": ["Putih", "Eyepatch"],
+    "sumRarityScore": 14.023210831721471,
+    "rank": 489
+  },
+  {
+    "id": 7,
+    "attributes": ["Putih Cantik"],
+    "sumRarityScore": 20,
+    "rank": 458
+  },
+  {
+    "id": 8,
+    "attributes": ["Itam Angah", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 19.876819708846586,
+    "rank": 459
+  },
+  {
+    "id": 9,
+    "attributes": ["Koko Comot", "Eyepatch", "Pipe"],
+    "sumRarityScore": 24.179720988231622,
+    "rank": 410
+  },
+  {
+    "id": 10,
+    "attributes": ["Itam Angah", "Hoodie"],
+    "sumRarityScore": 29.869067103109657,
+    "rank": 350
+  },
+  {
+    "id": 11,
+    "attributes": ["Koko Comel", "Baseball Cap", "Funny Glass", "Clown Nose"],
+    "sumRarityScore": 44.704448117801455,
+    "rank": 175
+  },
+  {
+    "id": 12,
+    "attributes": ["Koko Comot", "Blind", "Clown Nose"],
+    "sumRarityScore": 47.74705581157194,
+    "rank": 156
+  },
+  {
+    "id": 13,
+    "attributes": ["Tompok Comot", "Eyepatch", "Whistle"],
+    "sumRarityScore": 26.591198399709036,
+    "rank": 385
+  },
+  {
+    "id": 14,
+    "attributes": ["Putih Cantik", "Eyepatch"],
+    "sumRarityScore": 22.659574468085108,
+    "rank": 425
+  },
+  {
+    "id": 15,
+    "attributes": ["Tompok Comel", "Eyepatch", "Cigar"],
+    "sumRarityScore": 31.699978508489146,
+    "rank": 314
+  },
+  {
+    "id": 16,
+    "attributes": ["Itam Acik", "Night Vision Goggles", "Pipe"],
+    "sumRarityScore": 70.03205128205128,
+    "rank": 52
+  },
+  {
+    "id": 17,
+    "attributes": ["Itam Along"],
+    "sumRarityScore": 13.513513513513514,
+    "rank": 491
+  },
+  {
+    "id": 18,
+    "attributes": ["Koko Comot", "Witch Hat", "Eyepatch", "Pipe"],
+    "sumRarityScore": 30.758668356652677,
+    "rank": 331
+  },
+  {
+    "id": 19,
+    "attributes": ["Itam Along", "Baseball Cap", "Clown Nose"],
+    "sumRarityScore": 28.071536136052266,
+    "rank": 375
+  },
+  {
+    "id": 20,
+    "attributes": ["Koko Comel", "Hoodie", "Clown Nose"],
+    "sumRarityScore": 38.923192336545675,
+    "rank": 229
+  },
+  {
+    "id": 21,
+    "attributes": ["Koko Comel", "Eyepatch", "Pipe"],
+    "sumRarityScore": 23.90286606021391,
+    "rank": 412
+  },
+  {
+    "id": 22,
+    "attributes": ["Itam Angah", "Witch Hat", "Pipe"],
+    "sumRarityScore": 26.83262985614609,
+    "rank": 381
+  },
+  {
+    "id": 23,
+    "attributes": ["Tompok Comel", "Witch Hat", "Nerd Glass"],
+    "sumRarityScore": 38.98635477582846,
+    "rank": 227
+  },
+  {
+    "id": 24,
+    "attributes": ["Koko Comel", "Straw Hat"],
+    "sumRarityScore": 18.67016049787095,
+    "rank": 470
+  },
+  {
+    "id": 25,
+    "attributes": ["Pak Tam", "Watermelon Helmet"],
+    "sumRarityScore": 51.282051282051285,
+    "rank": 134
+  },
+  {
+    "id": 26,
+    "attributes": ["Koko Comot", "Clown Hat"],
+    "sumRarityScore": 31.13553113553113,
+    "rank": 322
+  },
+  {
+    "id": 27,
+    "attributes": ["Tompok Comel"],
+    "sumRarityScore": 13.88888888888889,
+    "rank": 490
+  },
+  {
+    "id": 28,
+    "attributes": ["Putih", "Baseball Cap", "One Eye Goggle"],
+    "sumRarityScore": 51.19047619047619,
+    "rank": 135
+  },
+  {
+    "id": 29,
+    "attributes": ["Pak Tam", "Witch Hat", "Eyepatch", "Pipe"],
+    "sumRarityScore": 31.674419272403597,
+    "rank": 315
+  },
+  {
+    "id": 30,
+    "attributes": ["Itam Angah", "Eyepatch"],
+    "sumRarityScore": 13.297872340425531,
+    "rank": 492
+  },
+  {
+    "id": 31,
+    "attributes": ["Itam Along", "Baseball Cap", "Eyepatch", "Whistle"],
+    "sumRarityScore": 33.77770558621623,
+    "rank": 283
+  },
+  {
+    "id": 32,
+    "attributes": ["Putih", "Baseball Cap", "Blind"],
+    "sumRarityScore": 45.63492063492063,
+    "rank": 166
+  },
+  {
+    "id": 33,
+    "attributes": ["Itam Acik", "Hoodie", "Eyepatch", "Pipe"],
+    "sumRarityScore": 41.922394980905615,
+    "rank": 204
+  },
+  {
+    "id": 34,
+    "attributes": ["Koko Comel", "Cigar"],
+    "sumRarityScore": 26.779422128259338,
+    "rank": 382
+  },
+  {
+    "id": 35,
+    "attributes": ["Putih", "MLG Glass", "Pipe"],
+    "sumRarityScore": 45.97902097902098,
+    "rank": 164
+  },
+  {
+    "id": 36,
+    "attributes": ["Koko Comel", "Bread Head", "Eyepatch"],
+    "sumRarityScore": 42.06525922260707,
+    "rank": 202
+  },
+  {
+    "id": 37,
+    "attributes": ["Koko Comel", "Witch Hat", "Funny Glass"],
+    "sumRarityScore": 36.72537286368376,
+    "rank": 244
+  },
+  {
+    "id": 38,
+    "attributes": ["Tompok Comel", "Clown Hat", "Nerd Glass", "Pipe"],
+    "sumRarityScore": 61.25356125356125,
+    "rank": 77
+  },
+  {
+    "id": 39,
+    "attributes": ["Koko Comel", "MLG Glass"],
+    "sumRarityScore": 36.627906976744185,
+    "rank": 246
+  },
+  {
+    "id": 40,
+    "attributes": ["Tompok Comot"],
+    "sumRarityScore": 12.820512820512821,
+    "rank": 495
+  },
+  {
+    "id": 41,
+    "attributes": ["Tompok Comel", "Watermelon Helmet"],
+    "sumRarityScore": 52.35042735042735,
+    "rank": 129
+  },
+  {
+    "id": 42,
+    "attributes": ["Putih", "Baseball Cap"],
+    "sumRarityScore": 17.857142857142858,
+    "rank": 476
+  },
+  {
+    "id": 43,
+    "attributes": ["Itam Angah", "Straw Hat", "Lipstick"],
+    "sumRarityScore": 33.305551393467184,
+    "rank": 288
+  },
+  {
+    "id": 44,
+    "attributes": ["Tompok Comot", "Clown Nose"],
+    "sumRarityScore": 20.88502894954508,
+    "rank": 444
+  },
+  {
+    "id": 45,
+    "attributes": ["Itam Acik", "Baseball Cap", "Face Mask"],
+    "sumRarityScore": 34.76731601731602,
+    "rank": 269
+  },
+  {
+    "id": 46,
+    "attributes": ["Tompok Comel", "Eyepatch"],
+    "sumRarityScore": 16.548463356973997,
+    "rank": 483
+  },
+  {
+    "id": 47,
+    "attributes": ["Putih", "Witch Hat", "Whistle"],
+    "sumRarityScore": 29.05369484316853,
+    "rank": 363
+  },
+  {
+    "id": 48,
+    "attributes": ["Putih", "Eyepatch", "Whistle"],
+    "sumRarityScore": 25.13432194283258,
+    "rank": 400
+  },
+  {
+    "id": 49,
+    "attributes": ["Itam Along", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 22.752035350019675,
+    "rank": 423
+  },
+  {
+    "id": 50,
+    "attributes": ["Pak Tam", "Witch Hat"],
+    "sumRarityScore": 19.399460188933872,
+    "rank": 464
+  },
+  {
+    "id": 51,
+    "attributes": ["Putih Cantik", "Baseball Cap"],
+    "sumRarityScore": 26.493506493506494,
+    "rank": 389
+  },
+  {
+    "id": 52,
+    "attributes": ["Putih Cantik", "Clown Nose"],
+    "sumRarityScore": 28.064516129032256,
+    "rank": 376
+  },
+  {
+    "id": 53,
+    "attributes": ["Itam Acik", "Pipe"],
+    "sumRarityScore": 20.03205128205128,
+    "rank": 456
+  },
+  {
+    "id": 54,
+    "attributes": ["Pak Tam", "Eyepatch"],
+    "sumRarityScore": 15.480087288597927,
+    "rank": 486
+  },
+  {
+    "id": 55,
+    "attributes": ["Tompok Comot", "Pirate Hat", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 51.93842062193126,
+    "rank": 132
+  },
+  {
+    "id": 56,
+    "attributes": ["Tompok Comel", "MLG Glass"],
+    "sumRarityScore": 38.888888888888886,
+    "rank": 231
+  },
+  {
+    "id": 57,
+    "attributes": ["Putih Cantik", "Watermelon Helmet"],
+    "sumRarityScore": 58.46153846153846,
+    "rank": 96
+  },
+  {
+    "id": 58,
+    "attributes": ["Tompok Comot", "Straw Hat", "Eyepatch", "Pipe"],
+    "sumRarityScore": 32.1377254251093,
+    "rank": 307
+  },
+  {
+    "id": 59,
+    "attributes": ["Tompok Comel", "Baseball Cap"],
+    "sumRarityScore": 20.382395382395384,
+    "rank": 451
+  },
+  {
+    "id": 60,
+    "attributes": ["Putih", "Bread Head"],
+    "sumRarityScore": 39.141414141414145,
+    "rank": 225
+  },
+  {
+    "id": 61,
+    "attributes": ["Putih Cantik", "Whistle"],
+    "sumRarityScore": 31.11111111111111,
+    "rank": 324
+  },
+  {
+    "id": 62,
+    "attributes": ["Tompok Comot", "Clown Hat", "Eyepatch"],
+    "sumRarityScore": 34.710856519367155,
+    "rank": 271
+  },
+  {
+    "id": 63,
+    "attributes": ["Itam Acik", "Baseball Cap", "Nerd Glass", "Whistle"],
+    "sumRarityScore": 46.53980278980279,
+    "rank": 159
+  },
+  {
+    "id": 64,
+    "attributes": ["Itam Along", "Baseball Cap", "Whistle"],
+    "sumRarityScore": 31.118131118131117,
+    "rank": 323
+  },
+  {
+    "id": 65,
+    "attributes": ["Putih", "Funny Glass", "Pipe"],
+    "sumRarityScore": 39.4975394975395,
+    "rank": 221
+  },
+  {
+    "id": 66,
+    "attributes": ["Tompok Comot", "Eyepatch", "Pipe"],
+    "sumRarityScore": 25.095471903982542,
+    "rank": 401
+  },
+  {
+    "id": 67,
+    "attributes": ["Putih"],
+    "sumRarityScore": 11.363636363636365,
+    "rank": 498
+  },
+  {
+    "id": 68,
+    "attributes": ["Koko Comot", "Straw Hat"],
+    "sumRarityScore": 18.947015425888665,
+    "rank": 468
+  },
+  {
+    "id": 69,
+    "attributes": ["Koko Comel", "Baseball Cap", "Face Mask"],
+    "sumRarityScore": 35.978556327393534,
+    "rank": 258
+  },
+  {
+    "id": 70,
+    "attributes": ["Putih Cantik", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 38.28457446808511,
+    "rank": 234
+  },
+  {
+    "id": 71,
+    "attributes": ["Itam Acik", "Bread Head", "Censored"],
+    "sumRarityScore": 79.86111111111111,
+    "rank": 37
+  },
+  {
+    "id": 72,
+    "attributes": ["Koko Comel", "One Eye Goggle"],
+    "sumRarityScore": 44.96124031007752,
+    "rank": 173
+  },
+  {
+    "id": 73,
+    "attributes": ["Itam Angah"],
+    "sumRarityScore": 10.638297872340425,
+    "rank": 499
+  },
+  {
+    "id": 74,
+    "attributes": ["Tompok Comel", "Hoodie"],
+    "sumRarityScore": 33.11965811965812,
+    "rank": 291
+  },
+  {
+    "id": 75,
+    "attributes": ["Itam Acik", "Clown Hat", "Eyepatch"],
+    "sumRarityScore": 32.307010365521,
+    "rank": 303
+  },
+  {
+    "id": 76,
+    "attributes": ["Itam Along", "Clown Hat"],
+    "sumRarityScore": 32.74428274428274,
+    "rank": 296
+  },
+  {
+    "id": 77,
+    "attributes": ["Tompok Comel", "3D Glass", "Pipe"],
+    "sumRarityScore": 65.17094017094017,
+    "rank": 63
+  },
+  {
+    "id": 78,
+    "attributes": ["Pak Tam", "Witch Hat", "Nerd Glass", "Face Mask"],
+    "sumRarityScore": 55.77512156459525,
+    "rank": 107
+  },
+  {
+    "id": 79,
+    "attributes": ["Itam Along", "Witch Hat", "Nerd Glass", "Face Mask"],
+    "sumRarityScore": 56.46812225759595,
+    "rank": 105
+  },
+  {
+    "id": 80,
+    "attributes": ["Itam Acik", "Pirate Hat", "Eyepatch"],
+    "sumRarityScore": 33.909574468085104,
+    "rank": 281
+  },
+  {
+    "id": 81,
+    "attributes": ["Itam Angah", "Pirate Hat", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 49.75620567375886,
+    "rank": 145
+  },
+  {
+    "id": 82,
+    "attributes": ["Itam Acik", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 28.701241134751772,
+    "rank": 369
+  },
+  {
+    "id": 83,
+    "attributes": ["Koko Comot", "Witch Hat", "Eyepatch", "Whistle"],
+    "sumRarityScore": 32.25439485237918,
+    "rank": 304
+  },
+  {
+    "id": 84,
+    "attributes": ["Koko Comel", "Watermelon Helmet", "Lipstick"],
+    "sumRarityScore": 65.71444543828264,
+    "rank": 59
+  },
+  {
+    "id": 85,
+    "attributes": ["Pak Tam", "Robot Head", "Eyepatch", "Pipe"],
+    "sumRarityScore": 70.55001735852801,
+    "rank": 49
+  },
+  {
+    "id": 86,
+    "attributes": ["Tompok Comel", "Robot Head"],
+    "sumRarityScore": 59.34343434343435,
+    "rank": 91
+  },
+  {
+    "id": 87,
+    "attributes": ["Koko Comot"],
+    "sumRarityScore": 11.904761904761903,
+    "rank": 496
+  },
+  {
+    "id": 88,
+    "attributes": ["Pak Tam", "Hoodie", "Nerd Glass", "Pipe"],
+    "sumRarityScore": 60.18518518518518,
+    "rank": 84
+  },
+  {
+    "id": 89,
+    "attributes": ["Itam Acik", "Witch Hat", "Pipe"],
+    "sumRarityScore": 26.610998650472332,
+    "rank": 384
+  },
+  {
+    "id": 90,
+    "attributes": ["Itam Acik", "Eyepatch"],
+    "sumRarityScore": 13.076241134751772,
+    "rank": 493
+  },
+  {
+    "id": 91,
+    "attributes": ["Itam Acik", "Baseball Cap", "Cigar"],
+    "sumRarityScore": 32.06168831168831,
+    "rank": 309
+  },
+  {
+    "id": 92,
+    "attributes": ["Putih", "Night Vision Goggles"],
+    "sumRarityScore": 61.36363636363637,
+    "rank": 75
+  },
+  {
+    "id": 93,
+    "attributes": ["Pak Tam", "Pirate Hat", "Eyepatch"],
+    "sumRarityScore": 36.31342062193126,
+    "rank": 252
+  },
+  {
+    "id": 94,
+    "attributes": ["Putih", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 21.065464352848235,
+    "rank": 441
+  },
+  {
+    "id": 95,
+    "attributes": ["Putih", "Witch Hat"],
+    "sumRarityScore": 17.942583732057418,
+    "rank": 475
+  },
+  {
+    "id": 96,
+    "attributes": ["Tompok Comel", "Pirate Hat", "Nerd Glass"],
+    "sumRarityScore": 53.24074074074074,
+    "rank": 124
+  },
+  {
+    "id": 97,
+    "attributes": ["Putih", "Clown Hat", "Eyepatch"],
+    "sumRarityScore": 33.2539800624907,
+    "rank": 289
+  },
+  {
+    "id": 98,
+    "attributes": ["Pak Tam", "Eyepatch", "Whistle"],
+    "sumRarityScore": 26.591198399709036,
+    "rank": 386
+  },
+  {
+    "id": 99,
+    "attributes": ["Tompok Comel", "Baseball Cap", "Eyepatch"],
+    "sumRarityScore": 23.04196985048049,
+    "rank": 420
+  },
+  {
+    "id": 100,
+    "attributes": ["Itam Along", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 23.215341502725384,
+    "rank": 418
+  },
+  {
+    "id": 101,
+    "attributes": ["Itam Acik"],
+    "sumRarityScore": 10.416666666666666,
+    "rank": 500
+  },
+  {
+    "id": 102,
+    "attributes": ["Tompok Comel", "Witch Hat", "Funny Glass"],
+    "sumRarityScore": 38.98635477582846,
+    "rank": 228
+  },
+  {
+    "id": 103,
+    "attributes": ["Itam Acik", "Baseball Cap", "Pipe"],
+    "sumRarityScore": 26.525557775557772,
+    "rank": 388
+  },
+  {
+    "id": 104,
+    "attributes": ["Itam Acik", "Hoodie", "MLG Glass"],
+    "sumRarityScore": 54.6474358974359,
+    "rank": 111
+  },
+  {
+    "id": 105,
+    "attributes": ["Itam Acik", "Straw Hat", "Pipe"],
+    "sumRarityScore": 27.074304803178045,
+    "rank": 380
+  },
+  {
+    "id": 106,
+    "attributes": ["Pak Tam", "Pirate Hat", "Cigar"],
+    "sumRarityScore": 48.8053613053613,
+    "rank": 151
+  },
+  {
+    "id": 107,
+    "attributes": ["Tompok Comel", "Witch Hat"],
+    "sumRarityScore": 20.46783625730994,
+    "rank": 450
+  },
+  {
+    "id": 108,
+    "attributes": ["Tompok Comot", "Baseball Cap", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 30.03810991113668,
+    "rank": 348
+  },
+  {
+    "id": 109,
+    "attributes": ["Itam Angah", "Baseball Cap", "Eyepatch"],
+    "sumRarityScore": 19.791378833932026,
+    "rank": 460
+  },
+  {
+    "id": 110,
+    "attributes": ["Itam Angah", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 20.340125861552295,
+    "rank": 452
+  },
+  {
+    "id": 111,
+    "attributes": ["Itam Along", "MLG Glass", "Whistle"],
+    "sumRarityScore": 49.62462462462463,
+    "rank": 147
+  },
+  {
+    "id": 112,
+    "attributes": ["Putih", "Baseball Cap", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 28.58123345426022,
+    "rank": 370
+  },
+  {
+    "id": 113,
+    "attributes": ["Tompok Comot", "Straw Hat", "One Eye Goggle", "Pipe"],
+    "sumRarityScore": 62.81148429035753,
+    "rank": 70
+  },
+  {
+    "id": 114,
+    "attributes": ["Koko Comot", "Straw Hat", "Nerd Glass", "Whistle"],
+    "sumRarityScore": 48.5766450555183,
+    "rank": 153
+  },
+  {
+    "id": 115,
+    "attributes": ["Itam Acik", "Straw Hat", "MLG Glass", "Cigar"],
+    "sumRarityScore": 57.61043533930857,
+    "rank": 100
+  },
+  {
+    "id": 116,
+    "attributes": ["Putih", "Straw Hat", "Blind", "Clown Nose"],
+    "sumRarityScore": 54.24818379157316,
+    "rank": 116
+  },
+  {
+    "id": 117,
+    "attributes": ["Koko Comot", "Witch Hat", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 29.20779987030032,
+    "rank": 360
+  },
+  {
+    "id": 118,
+    "attributes": ["Tompok Comot", "Witch Hat"],
+    "sumRarityScore": 19.399460188933872,
+    "rank": 465
+  },
+  {
+    "id": 119,
+    "attributes": ["Tompok Comel", "Whistle"],
+    "sumRarityScore": 25,
+    "rank": 404
+  },
+  {
+    "id": 120,
+    "attributes": ["Koko Comot", "Night Vision Goggles"],
+    "sumRarityScore": 61.904761904761905,
+    "rank": 74
+  },
+  {
+    "id": 121,
+    "attributes": ["Itam Angah", "Baseball Cap", "Censored"],
+    "sumRarityScore": 58.79847103251358,
+    "rank": 95
+  },
+  {
+    "id": 122,
+    "attributes": ["Itam Along", "Baseball Cap", "Cigar"],
+    "sumRarityScore": 35.15853515853516,
+    "rank": 267
+  },
+  {
+    "id": 123,
+    "attributes": ["Itam Angah", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 28.92287234042553,
+    "rank": 367
+  },
+  {
+    "id": 124,
+    "attributes": ["Koko Comot", "Robot Head"],
+    "sumRarityScore": 57.359307359307365,
+    "rank": 102
+  },
+  {
+    "id": 125,
+    "attributes": ["Itam Angah", "Straw Hat"],
+    "sumRarityScore": 17.680551393467187,
+    "rank": 477
+  },
+  {
+    "id": 126,
+    "attributes": ["Tompok Comot", "Straw Hat", "MLG Glass", "Lipstick"],
+    "sumRarityScore": 60.487766341639585,
+    "rank": 81
+  },
+  {
+    "id": 127,
+    "attributes": ["Putih", "Straw Hat", "One Eye Goggle"],
+    "sumRarityScore": 51.73922321809646,
+    "rank": 133
+  },
+  {
+    "id": 128,
+    "attributes": ["Putih Cantik", "Baseball Cap", "Cigar"],
+    "sumRarityScore": 41.64502164502164,
+    "rank": 207
+  },
+  {
+    "id": 129,
+    "attributes": ["Putih", "Whistle"],
+    "sumRarityScore": 22.474747474747474,
+    "rank": 428
+  },
+  {
+    "id": 130,
+    "attributes": ["Pak Tam", "Baseball Cap"],
+    "sumRarityScore": 19.314019314019315,
+    "rank": 466
+  },
+  {
+    "id": 131,
+    "attributes": ["Tompok Comel", "Bread Head", "Eyepatch", "Cigar"],
+    "sumRarityScore": 59.477756286266924,
+    "rank": 90
+  },
+  {
+    "id": 132,
+    "attributes": ["Koko Comot", "Pirate Hat"],
+    "sumRarityScore": 32.738095238095234,
+    "rank": 298
+  },
+  {
+    "id": 133,
+    "attributes": ["Itam Angah", "Hoodie", "Blind", "Clown Nose"],
+    "sumRarityScore": 65.7113610099197,
+    "rank": 60
+  },
+  {
+    "id": 134,
+    "attributes": ["Itam Angah", "Straw Hat", "Eyepatch", "Whistle"],
+    "sumRarityScore": 31.451236972663406,
+    "rank": 317
+  },
+  {
+    "id": 135,
+    "attributes": ["Putih", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 22.087726960753727,
+    "rank": 431
+  },
+  {
+    "id": 136,
+    "attributes": ["Putih Cantik", "Hoodie", "Eyepatch"],
+    "sumRarityScore": 41.89034369885433,
+    "rank": 205
+  },
+  {
+    "id": 137,
+    "attributes": ["Koko Comot", "Baseball Cap"],
+    "sumRarityScore": 18.398268398268396,
+    "rank": 473
+  },
+  {
+    "id": 138,
+    "attributes": ["Itam Along", "Pirate Hat"],
+    "sumRarityScore": 34.346846846846844,
+    "rank": 276
+  },
+  {
+    "id": 139,
+    "attributes": ["Itam Along", "Straw Hat"],
+    "sumRarityScore": 20.555767034640276,
+    "rank": 448
+  },
+  {
+    "id": 140,
+    "attributes": ["Itam Along", "Eyepatch"],
+    "sumRarityScore": 16.17308798159862,
+    "rank": 484
+  },
+  {
+    "id": 141,
+    "attributes": ["Tompok Comel", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 24.612979486006253,
+    "rank": 407
+  },
+  {
+    "id": 142,
+    "attributes": ["Itam Angah", "Baseball Cap", "Clown Nose"],
+    "sumRarityScore": 25.196320494879174,
+    "rank": 399
+  },
+  {
+    "id": 143,
+    "attributes": ["Putih", "Hoodie"],
+    "sumRarityScore": 30.594405594405593,
+    "rank": 333
+  },
+  {
+    "id": 144,
+    "attributes": ["Pak Tam", "Clown Nose"],
+    "sumRarityScore": 20.88502894954508,
+    "rank": 445
+  },
+  {
+    "id": 145,
+    "attributes": ["Itam Acik", "Straw Hat", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 35.743494655878536,
+    "rank": 261
+  },
+  {
+    "id": 146,
+    "attributes": ["Tompok Comot", "Straw Hat", "Funny Glass"],
+    "sumRarityScore": 38.381284860158104,
+    "rank": 233
+  },
+  {
+    "id": 147,
+    "attributes": ["Putih", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 29.64821083172147,
+    "rank": 355
+  },
+  {
+    "id": 148,
+    "attributes": ["Itam Angah", "Funny Glass"],
+    "sumRarityScore": 29.156816390858943,
+    "rank": 361
+  },
+  {
+    "id": 149,
+    "attributes": ["Itam Along", "Funny Glass"],
+    "sumRarityScore": 32.032032032032035,
+    "rank": 313
+  },
+  {
+    "id": 150,
+    "attributes": ["Koko Comot", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 21.143283741268064,
+    "rank": 440
+  },
+  {
+    "id": 151,
+    "attributes": ["Tompok Comel", "Straw Hat", "One Eye Goggle", "Whistle"],
+    "sumRarityScore": 65.3755868544601,
+    "rank": 62
+  },
+  {
+    "id": 152,
+    "attributes": ["Koko Comel", "Straw Hat", "Eyepatch", "Pipe"],
+    "sumRarityScore": 30.94511958134067,
+    "rank": 326
+  },
+  {
+    "id": 153,
+    "attributes": ["Putih", "Straw Hat", "Eyepatch", "Face Mask"],
+    "sumRarityScore": 38.92260720999109,
+    "rank": 230
+  },
+  {
+    "id": 154,
+    "attributes": ["Pak Tam", "Straw Hat", "Pipe"],
+    "sumRarityScore": 29.478150957024198,
+    "rank": 357
+  },
+  {
+    "id": 155,
+    "attributes": ["Itam Acik", "Straw Hat"],
+    "sumRarityScore": 17.458920187793428,
+    "rank": 478
+  },
+  {
+    "id": 156,
+    "attributes": ["Tompok Comel", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 23.12741072539505,
+    "rank": 419
+  },
+  {
+    "id": 157,
+    "attributes": ["Koko Comot", "Witch Hat", "Funny Glass"],
+    "sumRarityScore": 37.00222779170147,
+    "rank": 242
+  },
+  {
+    "id": 158,
+    "attributes": ["Itam Acik", "Baseball Cap", "Eyepatch", "Face Mask"],
+    "sumRarityScore": 37.426890485401124,
+    "rank": 239
+  },
+  {
+    "id": 159,
+    "attributes": ["Itam Acik", "Baseball Cap", "Blind"],
+    "sumRarityScore": 44.68795093795094,
+    "rank": 176
+  },
+  {
+    "id": 160,
+    "attributes": ["Itam Acik", "Eyepatch", "Whistle"],
+    "sumRarityScore": 24.187352245862883,
+    "rank": 409
+  },
+  {
+    "id": 161,
+    "attributes": ["Tompok Comot", "Bread Head", "3D Glass"],
+    "sumRarityScore": 82.26495726495727,
+    "rank": 33
+  },
+  {
+    "id": 162,
+    "attributes": ["Koko Comot", "Robot Head", "Face Mask"],
+    "sumRarityScore": 75.21645021645023,
+    "rank": 41
+  },
+  {
+    "id": 163,
+    "attributes": ["Putih", "Clown Hat"],
+    "sumRarityScore": 30.594405594405593,
+    "rank": 334
+  },
+  {
+    "id": 164,
+    "attributes": ["Itam Acik", "Eyepatch", "Cigar"],
+    "sumRarityScore": 28.227756286266924,
+    "rank": 373
+  },
+  {
+    "id": 165,
+    "attributes": ["Tompok Comot", "Clown Hat", "Eyepatch", "Pipe"],
+    "sumRarityScore": 44.32624113475177,
+    "rank": 179
+  },
+  {
+    "id": 166,
+    "attributes": ["Koko Comot", "Watermelon Helmet", "Pipe"],
+    "sumRarityScore": 59.98168498168498,
+    "rank": 86
+  },
+  {
+    "id": 167,
+    "attributes": ["Putih", "Straw Hat", "Pipe"],
+    "sumRarityScore": 28.02127450014774,
+    "rank": 377
+  },
+  {
+    "id": 168,
+    "attributes": ["Putih Cantik", "Witch Hat", "Eyepatch", "Cigar"],
+    "sumRarityScore": 44.390036988021315,
+    "rank": 177
+  },
+  {
+    "id": 169,
+    "attributes": ["Koko Comot", "Face Mask"],
+    "sumRarityScore": 29.76190476190476,
+    "rank": 352
+  },
+  {
+    "id": 170,
+    "attributes": ["Itam Acik", "Baseball Cap", "Eyepatch"],
+    "sumRarityScore": 19.569747628258266,
+    "rank": 462
+  },
+  {
+    "id": 171,
+    "attributes": ["Tompok Comel", "Straw Hat"],
+    "sumRarityScore": 20.93114241001565,
+    "rank": 443
+  },
+  {
+    "id": 172,
+    "attributes": ["Koko Comel", "Straw Hat", "Funny Glass"],
+    "sumRarityScore": 37.18867901638947,
+    "rank": 241
+  },
+  {
+    "id": 173,
+    "attributes": ["Koko Comot", "Baseball Cap", "Eyepatch"],
+    "sumRarityScore": 21.057842866353504,
+    "rank": 442
+  },
+  {
+    "id": 174,
+    "attributes": ["Putih", "Straw Hat", "Lipstick"],
+    "sumRarityScore": 34.03088988476313,
+    "rank": 279
+  },
+  {
+    "id": 175,
+    "attributes": ["Putih Cantik", "Straw Hat", "Clown Nose"],
+    "sumRarityScore": 35.106769650159016,
+    "rank": 268
+  },
+  {
+    "id": 176,
+    "attributes": ["Itam Angah", "Baseball Cap", "Funny Glass", "Cigar"],
+    "sumRarityScore": 50.801838035880586,
+    "rank": 138
+  },
+  {
+    "id": 177,
+    "attributes": ["Tompok Comel", "Clown Hat", "Eyepatch"],
+    "sumRarityScore": 35.77923258774322,
+    "rank": 259
+  },
+  {
+    "id": 178,
+    "attributes": ["Tompok Comel", "Clown Nose"],
+    "sumRarityScore": 21.95340501792115,
+    "rank": 435
+  },
+  {
+    "id": 179,
+    "attributes": ["Koko Comot", "MLG Glass"],
+    "sumRarityScore": 36.904761904761905,
+    "rank": 243
+  },
+  {
+    "id": 180,
+    "attributes": ["Tompok Comot", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 22.52234080972469,
+    "rank": 426
+  },
+  {
+    "id": 181,
+    "attributes": ["Tompok Comel", "Cigar"],
+    "sumRarityScore": 29.04040404040404,
+    "rank": 364
+  },
+  {
+    "id": 182,
+    "attributes": ["Pak Tam", "Hoodie", "Eyepatch"],
+    "sumRarityScore": 34.710856519367155,
+    "rank": 272
+  },
+  {
+    "id": 183,
+    "attributes": ["Itam Along", "Witch Hat", "MLG Glass", "Clown Nose"],
+    "sumRarityScore": 53.15697701096683,
+    "rank": 125
+  },
+  {
+    "id": 184,
+    "attributes": ["Tompok Comot", "Hoodie", "Eyepatch"],
+    "sumRarityScore": 34.710856519367155,
+    "rank": 273
+  },
+  {
+    "id": 185,
+    "attributes": ["Tompok Comel", "Straw Hat", "Pipe"],
+    "sumRarityScore": 30.546527025400266,
+    "rank": 335
+  },
+  {
+    "id": 186,
+    "attributes": ["Tompok Comot", "Bread Head", "Eyepatch"],
+    "sumRarityScore": 43.25786506637571,
+    "rank": 190
+  },
+  {
+    "id": 187,
+    "attributes": ["Itam Along", "Eyepatch", "Pipe"],
+    "sumRarityScore": 25.788472596983233,
+    "rank": 395
+  },
+  {
+    "id": 188,
+    "attributes": ["Itam Along", "Robot Head"],
+    "sumRarityScore": 58.968058968058976,
+    "rank": 93
+  },
+  {
+    "id": 189,
+    "attributes": ["Putih", "Baseball Cap", "Eyepatch"],
+    "sumRarityScore": 20.516717325227965,
+    "rank": 449
+  },
+  {
+    "id": 190,
+    "attributes": ["Putih Cantik", "MLG Glass"],
+    "sumRarityScore": 45,
+    "rank": 172
+  },
+  {
+    "id": 191,
+    "attributes": ["Tompok Comot", "Nerd Glass"],
+    "sumRarityScore": 31.33903133903134,
+    "rank": 318
+  },
+  {
+    "id": 192,
+    "attributes": ["Itam Angah", "Nerd Glass"],
+    "sumRarityScore": 29.156816390858943,
+    "rank": 362
+  },
+  {
+    "id": 193,
+    "attributes": ["Tompok Comot", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 23.544603417630185,
+    "rank": 416
+  },
+  {
+    "id": 194,
+    "attributes": ["Koko Comot", "Funny Glass"],
+    "sumRarityScore": 30.423280423280424,
+    "rank": 339
+  },
+  {
+    "id": 195,
+    "attributes": ["Itam Angah", "Straw Hat", "Whistle"],
+    "sumRarityScore": 28.791662504578298,
+    "rank": 368
+  },
+  {
+    "id": 196,
+    "attributes": ["Koko Comot", "Straw Hat", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 29.671106023006033,
+    "rank": 354
+  },
+  {
+    "id": 197,
+    "attributes": ["Putih", "Baseball Cap", "Nerd Glass"],
+    "sumRarityScore": 36.37566137566138,
+    "rank": 251
+  },
+  {
+    "id": 198,
+    "attributes": ["Itam Along", "Hoodie"],
+    "sumRarityScore": 32.74428274428274,
+    "rank": 297
+  },
+  {
+    "id": 199,
+    "attributes": ["Pak Tam", "Robot Head", "Eyepatch", "Whistle"],
+    "sumRarityScore": 72.0457438542545,
+    "rank": 46
+  },
+  {
+    "id": 200,
+    "attributes": ["Koko Comot", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 21.606589893973773,
+    "rank": 436
+  },
+  {
+    "id": 201,
+    "attributes": ["Putih", "Night Vision Goggles", "Face Mask"],
+    "sumRarityScore": 79.22077922077922,
+    "rank": 38
+  },
+  {
+    "id": 202,
+    "attributes": ["Itam Angah", "Baseball Cap"],
+    "sumRarityScore": 17.131804365846918,
+    "rank": 480
+  },
+  {
+    "id": 203,
+    "attributes": ["Itam Acik", "Witch Hat"],
+    "sumRarityScore": 16.99561403508772,
+    "rank": 481
+  },
+  {
+    "id": 204,
+    "attributes": ["Pak Tam", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 22.52234080972469,
+    "rank": 427
+  },
+  {
+    "id": 205,
+    "attributes": ["Koko Comel", "Clown Hat"],
+    "sumRarityScore": 30.85867620751342,
+    "rank": 327
+  },
+  {
+    "id": 206,
+    "attributes": ["Itam Acik", "Witch Hat", "MLG Glass"],
+    "sumRarityScore": 41.99561403508772,
+    "rank": 203
+  },
+  {
+    "id": 207,
+    "attributes": [
+      "Tompok Comot",
+      "Bread Head",
+      "Night Vision Goggles",
+      "Clown Nose"
+    ],
+    "sumRarityScore": 98.66280672732286,
+    "rank": 24
+  },
+  {
+    "id": 208,
+    "attributes": ["Koko Comot", "Baseball Cap", "3D Glass", "Cigar"],
+    "sumRarityScore": 75.21645021645021,
+    "rank": 42
+  },
+  {
+    "id": 209,
+    "attributes": ["Pak Tam", "One Eye Goggle"],
+    "sumRarityScore": 46.15384615384616,
+    "rank": 162
+  },
+  {
+    "id": 210,
+    "attributes": ["Pak Tam", "Straw Hat", "Eyepatch", "Pipe"],
+    "sumRarityScore": 32.1377254251093,
+    "rank": 308
+  },
+  {
+    "id": 211,
+    "attributes": ["Putih", "Eyepatch", "Pipe"],
+    "sumRarityScore": 23.638595447106084,
+    "rank": 414
+  },
+  {
+    "id": 212,
+    "attributes": ["Koko Comel", "Funny Glass", "Cigar"],
+    "sumRarityScore": 45.29794064677785,
+    "rank": 168
+  },
+  {
+    "id": 213,
+    "attributes": ["Pak Tam", "Nerd Glass"],
+    "sumRarityScore": 31.33903133903134,
+    "rank": 319
+  },
+  {
+    "id": 214,
+    "attributes": ["Koko Comot", "Eyepatch"],
+    "sumRarityScore": 14.56433637284701,
+    "rank": 487
+  },
+  {
+    "id": 215,
+    "attributes": ["Putih", "Baseball Cap", "MLG Glass", "Clown Nose"],
+    "sumRarityScore": 50.92165898617512,
+    "rank": 137
+  },
+  {
+    "id": 216,
+    "attributes": ["Itam Along", "Baseball Cap", "Eyepatch"],
+    "sumRarityScore": 22.666594475105114,
+    "rank": 424
+  },
+  {
+    "id": 217,
+    "attributes": ["Itam Angah", "Blind"],
+    "sumRarityScore": 38.4160756501182,
+    "rank": 232
+  },
+  {
+    "id": 218,
+    "attributes": ["Itam Along", "Pirate Hat", "Funny Glass"],
+    "sumRarityScore": 52.86536536536536,
+    "rank": 128
+  },
+  {
+    "id": 219,
+    "attributes": ["Putih Cantik", "Pirate Hat"],
+    "sumRarityScore": 40.83333333333333,
+    "rank": 213
+  },
+  {
+    "id": 220,
+    "attributes": ["Putih", "Clown Nose"],
+    "sumRarityScore": 19.428152492668623,
+    "rank": 463
+  },
+  {
+    "id": 221,
+    "attributes": ["Putih Cantik", "Dino Head", "Eyepatch"],
+    "sumRarityScore": 94.08814589665654,
+    "rank": 25
+  },
+  {
+    "id": 222,
+    "attributes": ["Tompok Comel", "Pirate Hat"],
+    "sumRarityScore": 34.72222222222222,
+    "rank": 270
+  },
+  {
+    "id": 223,
+    "attributes": ["Putih", "Baseball Cap", "Face Mask"],
+    "sumRarityScore": 35.714285714285715,
+    "rank": 263
+  },
+  {
+    "id": 224,
+    "attributes": ["Itam Acik", "Straw Hat", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 28.183010784910792,
+    "rank": 374
+  },
+  {
+    "id": 225,
+    "attributes": ["Putih Cantik", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 29.701827989211868,
+    "rank": 353
+  },
+  {
+    "id": 226,
+    "attributes": ["Koko Comot", "Bread Head", "Funny Glass"],
+    "sumRarityScore": 58.2010582010582,
+    "rank": 97
+  },
+  {
+    "id": 227,
+    "attributes": ["Itam Along", "Baseball Cap", "Nerd Glass", "Whistle"],
+    "sumRarityScore": 49.636649636649636,
+    "rank": 146
+  },
+  {
+    "id": 228,
+    "attributes": ["Itam Along", "Whistle"],
+    "sumRarityScore": 24.624624624624623,
+    "rank": 406
+  },
+  {
+    "id": 229,
+    "attributes": ["Pak Tam", "Dino Head"],
+    "sumRarityScore": 84.24908424908425,
+    "rank": 31
+  },
+  {
+    "id": 230,
+    "attributes": ["Putih", "Dino Head", "Nerd Glass"],
+    "sumRarityScore": 101.31072631072631,
+    "rank": 21
+  },
+  {
+    "id": 231,
+    "attributes": ["Putih", "Baseball Cap", "Clown Nose"],
+    "sumRarityScore": 25.921658986175117,
+    "rank": 394
+  },
+  {
+    "id": 232,
+    "attributes": ["Itam Angah", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 21.36238846945779,
+    "rank": 438
+  },
+  {
+    "id": 233,
+    "attributes": ["Pak Tam", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 22.05903465701898,
+    "rank": 432
+  },
+  {
+    "id": 234,
+    "attributes": ["Koko Comel", "Baseball Cap", "Nerd Glass"],
+    "sumRarityScore": 36.6399319887692,
+    "rank": 245
+  },
+  {
+    "id": 235,
+    "attributes": ["Putih Cantik", "Baseball Cap", "Blind"],
+    "sumRarityScore": 54.27128427128427,
+    "rank": 115
+  },
+  {
+    "id": 236,
+    "attributes": ["Putih Cantik", "Witch Hat"],
+    "sumRarityScore": 26.578947368421055,
+    "rank": 387
+  },
+  {
+    "id": 237,
+    "attributes": ["Itam Along", "Baseball Cap"],
+    "sumRarityScore": 20.007020007020007,
+    "rank": 457
+  },
+  {
+    "id": 238,
+    "attributes": ["Itam Acik", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 20.118494655878536,
+    "rank": 454
+  },
+  {
+    "id": 239,
+    "attributes": ["Tompok Comot", "Hoodie"],
+    "sumRarityScore": 32.05128205128205,
+    "rank": 310
+  },
+  {
+    "id": 240,
+    "attributes": ["Itam Acik", "Bread Head", "Eyepatch", "Whistle"],
+    "sumRarityScore": 51.965130023640654,
+    "rank": 131
+  },
+  {
+    "id": 241,
+    "attributes": ["Itam Along", "Baseball Cap", "One Eye Goggle"],
+    "sumRarityScore": 53.340353340353346,
+    "rank": 123
+  },
+  {
+    "id": 242,
+    "attributes": ["Pak Tam", "Hoodie"],
+    "sumRarityScore": 32.05128205128205,
+    "rank": 311
+  },
+  {
+    "id": 243,
+    "attributes": ["Koko Comel", "Witch Hat", "Cigar"],
+    "sumRarityScore": 33.35836949668039,
+    "rank": 287
+  },
+  {
+    "id": 244,
+    "attributes": ["Itam Angah", "Bread Head", "Eyepatch", "Cigar"],
+    "sumRarityScore": 56.227165269718455,
+    "rank": 106
+  },
+  {
+    "id": 245,
+    "attributes": ["Pak Tam", "Clown Hat", "Eyepatch", "Pipe"],
+    "sumRarityScore": 44.32624113475177,
+    "rank": 180
+  },
+  {
+    "id": 246,
+    "attributes": ["Tompok Comel", "Hoodie", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 43.84374871677548,
+    "rank": 183
+  },
+  {
+    "id": 247,
+    "attributes": ["Koko Comot", "Watermelon Helmet", "Eyepatch"],
+    "sumRarityScore": 53.02587483438547,
+    "rank": 126
+  },
+  {
+    "id": 248,
+    "attributes": ["Koko Comel", "Baseball Cap"],
+    "sumRarityScore": 18.12141347025068,
+    "rank": 474
+  },
+  {
+    "id": 249,
+    "attributes": ["Itam Acik", "Pirate Hat", "Night Vision Goggles"],
+    "sumRarityScore": 81.25,
+    "rank": 34
+  },
+  {
+    "id": 250,
+    "attributes": ["Itam Angah", "Eyepatch", "Pipe"],
+    "sumRarityScore": 22.913256955810148,
+    "rank": 422
+  },
+  {
+    "id": 251,
+    "attributes": ["Tompok Comot", "Baseball Cap"],
+    "sumRarityScore": 19.314019314019315,
+    "rank": 467
+  },
+  {
+    "id": 252,
+    "attributes": ["Itam Angah", "Witch Hat", "One Eye Goggle"],
+    "sumRarityScore": 50.550578574094814,
+    "rank": 141
+  },
+  {
+    "id": 253,
+    "attributes": ["Putih", "Clown Hat", "Eyepatch", "Pipe"],
+    "sumRarityScore": 42.86936467787531,
+    "rank": 195
+  },
+  {
+    "id": 254,
+    "attributes": ["Koko Comel", "Nerd Glass"],
+    "sumRarityScore": 30.146425495262704,
+    "rank": 345
+  },
+  {
+    "id": 255,
+    "attributes": ["Putih Cantik", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 29.238521836506163,
+    "rank": 358
+  },
+  {
+    "id": 256,
+    "attributes": ["Itam Acik", "Straw Hat", "Cigar"],
+    "sumRarityScore": 32.61043533930858,
+    "rank": 299
+  },
+  {
+    "id": 257,
+    "attributes": ["Itam Angah", "Clown Hat", "MLG Glass"],
+    "sumRarityScore": 54.86906710310966,
+    "rank": 109
+  },
+  {
+    "id": 258,
+    "attributes": ["Itam Acik", "Baseball Cap", "Nerd Glass"],
+    "sumRarityScore": 35.42869167869168,
+    "rank": 265
+  },
+  {
+    "id": 259,
+    "attributes": ["Tompok Comot", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 22.05903465701898,
+    "rank": 433
+  },
+  {
+    "id": 260,
+    "attributes": ["Koko Comel", "Straw Hat", "Eyepatch", "Whistle"],
+    "sumRarityScore": 32.440846077067164,
+    "rank": 301
+  },
+  {
+    "id": 261,
+    "attributes": ["Koko Comot", "Censored", "Face Mask"],
+    "sumRarityScore": 71.42857142857143,
+    "rank": 47
+  },
+  {
+    "id": 262,
+    "attributes": ["Itam Angah", "MLG Glass", "Cigar"],
+    "sumRarityScore": 50.78981302385557,
+    "rank": 139
+  },
+  {
+    "id": 263,
+    "attributes": ["Koko Comel", "Baseball Cap", "Whistle"],
+    "sumRarityScore": 29.23252458136179,
+    "rank": 359
+  },
+  {
+    "id": 264,
+    "attributes": ["Pak Tam", "Witch Hat", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 30.12355078605124,
+    "rank": 346
+  },
+  {
+    "id": 265,
+    "attributes": ["Itam Along", "Bread Head"],
+    "sumRarityScore": 41.291291291291294,
+    "rank": 210
+  },
+  {
+    "id": 266,
+    "attributes": ["Itam Angah", "One Eye Goggle", "Lipstick"],
+    "sumRarityScore": 59.59663120567376,
+    "rank": 88
+  },
+  {
+    "id": 267,
+    "attributes": ["Putih Cantik", "Nerd Glass", "Cigar"],
+    "sumRarityScore": 53.67003367003367,
+    "rank": 121
+  },
+  {
+    "id": 268,
+    "attributes": ["Tompok Comot", "Pipe"],
+    "sumRarityScore": 22.435897435897438,
+    "rank": 429
+  },
+  {
+    "id": 269,
+    "attributes": ["Tompok Comot", "Witch Hat", "Censored"],
+    "sumRarityScore": 61.06612685560054,
+    "rank": 78
+  },
+  {
+    "id": 270,
+    "attributes": ["Koko Comel", "Witch Hat", "Lipstick"],
+    "sumRarityScore": 33.83185434516524,
+    "rank": 282
+  },
+  {
+    "id": 271,
+    "attributes": ["Pak Tam", "Witch Hat", "3D Glass", "Pipe"],
+    "sumRarityScore": 70.68151147098516,
+    "rank": 48
+  },
+  {
+    "id": 272,
+    "attributes": ["Itam Acik", "Blind", "Whistle"],
+    "sumRarityScore": 49.30555555555556,
+    "rank": 148
+  },
+  {
+    "id": 273,
+    "attributes": ["Pak Tam", "Baseball Cap", "Eyepatch", "Whistle"],
+    "sumRarityScore": 33.08470489321553,
+    "rank": 292
+  },
+  {
+    "id": 274,
+    "attributes": ["Koko Comel", "Baseball Cap", "Eyepatch"],
+    "sumRarityScore": 20.780987938335787,
+    "rank": 447
+  },
+  {
+    "id": 275,
+    "attributes": ["Itam Acik", "Straw Hat", "Eyepatch", "Whistle"],
+    "sumRarityScore": 31.229605766989646,
+    "rank": 320
+  },
+  {
+    "id": 276,
+    "attributes": ["Itam Acik", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 19.655188503172827,
+    "rank": 461
+  },
+  {
+    "id": 277,
+    "attributes": ["Itam Acik", "Straw Hat", "Censored"],
+    "sumRarityScore": 59.125586854460096,
+    "rank": 92
+  },
+  {
+    "id": 278,
+    "attributes": ["Itam Along", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 24.237604110630876,
+    "rank": 408
+  },
+  {
+    "id": 279,
+    "attributes": ["Koko Comel"],
+    "sumRarityScore": 11.627906976744187,
+    "rank": 497
+  },
+  {
+    "id": 280,
+    "attributes": ["Itam Along", "Nerd Glass", "Clown Nose"],
+    "sumRarityScore": 40.09654816106429,
+    "rank": 215
+  },
+  {
+    "id": 281,
+    "attributes": ["Tompok Comel", "Hoodie", "Eyepatch"],
+    "sumRarityScore": 35.77923258774322,
+    "rank": 260
+  },
+  {
+    "id": 282,
+    "attributes": ["Koko Comel", "Clown Hat", "Night Vision Goggles"],
+    "sumRarityScore": 80.85867620751341,
+    "rank": 35
+  },
+  {
+    "id": 283,
+    "attributes": ["Tompok Comel", "Witch Hat", "3D Glass", "Cigar"],
+    "sumRarityScore": 77.28601807549175,
+    "rank": 39
+  },
+  {
+    "id": 284,
+    "attributes": ["Koko Comot", "Witch Hat", "Censored"],
+    "sumRarityScore": 60.150375939849624,
+    "rank": 85
+  },
+  {
+    "id": 285,
+    "attributes": ["Koko Comot", "Witch Hat"],
+    "sumRarityScore": 18.483709273182956,
+    "rank": 471
+  },
+  {
+    "id": 286,
+    "attributes": ["Tompok Comel", "Blind"],
+    "sumRarityScore": 41.66666666666667,
+    "rank": 206
+  },
+  {
+    "id": 287,
+    "attributes": ["Koko Comot", "Eyepatch", "Whistle"],
+    "sumRarityScore": 25.67544748395812,
+    "rank": 397
+  },
+  {
+    "id": 288,
+    "attributes": ["Itam Angah", "Clown Nose"],
+    "sumRarityScore": 18.702814001372683,
+    "rank": 469
+  },
+  {
+    "id": 289,
+    "attributes": ["Itam Along", "Eyepatch", "Face Mask"],
+    "sumRarityScore": 34.030230838741474,
+    "rank": 280
+  },
+  {
+    "id": 290,
+    "attributes": ["Putih", "Witch Hat", "Eyepatch", "Pipe"],
+    "sumRarityScore": 30.21754281552714,
+    "rank": 342
+  },
+  {
+    "id": 291,
+    "attributes": ["Itam Angah", "Funny Glass", "Lipstick"],
+    "sumRarityScore": 44.78181639085894,
+    "rank": 174
+  },
+  {
+    "id": 292,
+    "attributes": ["Itam Angah", "Witch Hat", "Cigar"],
+    "sumRarityScore": 32.36876039227663,
+    "rank": 302
+  },
+  {
+    "id": 293,
+    "attributes": ["Itam Acik", "Hoodie", "Eyepatch", "Whistle"],
+    "sumRarityScore": 43.41812147663211,
+    "rank": 188
+  },
+  {
+    "id": 294,
+    "attributes": ["Koko Comot", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 30.18933637284701,
+    "rank": 343
+  },
+  {
+    "id": 295,
+    "attributes": ["Tompok Comel", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 23.590716878100757,
+    "rank": 415
+  },
+  {
+    "id": 296,
+    "attributes": ["Koko Comel", "Straw Hat", "Pipe"],
+    "sumRarityScore": 28.285545113255566,
+    "rank": 372
+  },
+  {
+    "id": 297,
+    "attributes": ["Putih Cantik", "3D Glass", "Clown Nose"],
+    "sumRarityScore": 69.73118279569893,
+    "rank": 53
+  },
+  {
+    "id": 298,
+    "attributes": ["Itam Angah", "Clown Hat", "Eyepatch", "Pipe"],
+    "sumRarityScore": 42.144026186579374,
+    "rank": 201
+  },
+  {
+    "id": 299,
+    "attributes": ["Tompok Comel", "Baseball Cap", "Clown Nose"],
+    "sumRarityScore": 28.446911511427643,
+    "rank": 371
+  },
+  {
+    "id": 300,
+    "attributes": ["Itam Along", "Baseball Cap", "Face Mask"],
+    "sumRarityScore": 37.864162864162864,
+    "rank": 235
+  },
+  {
+    "id": 301,
+    "attributes": ["Tompok Comot", "Clown Hat", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 42.77537264839941,
+    "rank": 196
+  },
+  {
+    "id": 302,
+    "attributes": ["Itam Along", "Witch Hat", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 30.81655147905193,
+    "rank": 330
+  },
+  {
+    "id": 303,
+    "attributes": ["Koko Comel", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 22.351997573861553,
+    "rank": 430
+  },
+  {
+    "id": 304,
+    "attributes": ["Putih", "Funny Glass", "Face Mask"],
+    "sumRarityScore": 47.73929773929774,
+    "rank": 157
+  },
+  {
+    "id": 305,
+    "attributes": ["Pak Tam", "Whistle"],
+    "sumRarityScore": 23.931623931623932,
+    "rank": 411
+  },
+  {
+    "id": 306,
+    "attributes": ["Koko Comot", "Whistle"],
+    "sumRarityScore": 23.015873015873012,
+    "rank": 421
+  },
+  {
+    "id": 307,
+    "attributes": ["Pak Tam", "Baseball Cap", "Whistle"],
+    "sumRarityScore": 30.425130425130426,
+    "rank": 338
+  },
+  {
+    "id": 308,
+    "attributes": ["Tompok Comot", "Straw Hat", "Eyepatch", "Cigar"],
+    "sumRarityScore": 37.67385596123984,
+    "rank": 237
+  },
+  {
+    "id": 309,
+    "attributes": ["Itam Acik", "Clown Hat", "Blind"],
+    "sumRarityScore": 57.425213675213676,
+    "rank": 101
+  },
+  {
+    "id": 310,
+    "attributes": ["Koko Comel", "Pirate Hat"],
+    "sumRarityScore": 32.46124031007752,
+    "rank": 300
+  },
+  {
+    "id": 311,
+    "attributes": ["Koko Comel", "Straw Hat", "Face Mask"],
+    "sumRarityScore": 36.52730335501381,
+    "rank": 247
+  },
+  {
+    "id": 312,
+    "attributes": ["Tompok Comel", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 32.173463356974,
+    "rank": 306
+  },
+  {
+    "id": 313,
+    "attributes": ["Putih", "Funny Glass"],
+    "sumRarityScore": 29.882154882154886,
+    "rank": 349
+  },
+  {
+    "id": 314,
+    "attributes": ["Tompok Comot", "Witch Hat", "Pipe"],
+    "sumRarityScore": 29.014844804318486,
+    "rank": 365
+  },
+  {
+    "id": 315,
+    "attributes": ["Itam Acik", "Censored", "Cigar"],
+    "sumRarityScore": 67.23484848484848,
+    "rank": 57
+  },
+  {
+    "id": 316,
+    "attributes": ["Tompok Comot", "Pirate Hat", "Eyepatch"],
+    "sumRarityScore": 36.31342062193126,
+    "rank": 253
+  },
+  {
+    "id": 317,
+    "attributes": ["Pak Tam", "Hoodie", "Face Mask"],
+    "sumRarityScore": 49.908424908424905,
+    "rank": 143
+  },
+  {
+    "id": 318,
+    "attributes": ["Itam Angah", "Eyepatch", "Face Mask"],
+    "sumRarityScore": 31.15501519756839,
+    "rank": 321
+  },
+  {
+    "id": 319,
+    "attributes": ["Tompok Comel", "Robot Head", "Eyepatch"],
+    "sumRarityScore": 62.00300881151946,
+    "rank": 73
+  },
+  {
+    "id": 320,
+    "attributes": ["Putih", "Baseball Cap", "Censored"],
+    "sumRarityScore": 59.52380952380952,
+    "rank": 89
+  },
+  {
+    "id": 321,
+    "attributes": ["Itam Along", "Witch Hat", "Blind", "Cigar"],
+    "sumRarityScore": 63.02175381122749,
+    "rank": 69
+  },
+  {
+    "id": 322,
+    "attributes": ["Koko Comel", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 21.329734965956057,
+    "rank": 439
+  },
+  {
+    "id": 323,
+    "attributes": ["Tompok Comot", "Censored", "Whistle"],
+    "sumRarityScore": 65.5982905982906,
+    "rank": 61
+  },
+  {
+    "id": 324,
+    "attributes": ["Tompok Comot", "Pirate Hat", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 44.377936750963514,
+    "rank": 178
+  },
+  {
+    "id": 325,
+    "attributes": ["Koko Comot", "Pirate Hat", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 43.462185835212594,
+    "rank": 187
+  },
+  {
+    "id": 326,
+    "attributes": ["Koko Comel", "Witch Hat", "Eyepatch", "Cigar"],
+    "sumRarityScore": 36.0179439647655,
+    "rank": 256
+  },
+  {
+    "id": 327,
+    "attributes": ["Koko Comot", "Clown Hat", "Eyepatch", "Pipe"],
+    "sumRarityScore": 43.41049021900085,
+    "rank": 189
+  },
+  {
+    "id": 328,
+    "attributes": ["Itam Angah", "Clown Hat"],
+    "sumRarityScore": 29.869067103109657,
+    "rank": 351
+  },
+  {
+    "id": 329,
+    "attributes": ["Putih Cantik", "Pirate Hat", "Eyepatch", "Whistle"],
+    "sumRarityScore": 54.60401891252954,
+    "rank": 113
+  },
+  {
+    "id": 330,
+    "attributes": ["Koko Comot", "Pirate Hat", "Eyepatch", "Whistle"],
+    "sumRarityScore": 46.50878081729145,
+    "rank": 160
+  },
+  {
+    "id": 331,
+    "attributes": ["Itam Acik", "Witch Hat", "Blind", "Lipstick"],
+    "sumRarityScore": 60.3983918128655,
+    "rank": 83
+  },
+  {
+    "id": 332,
+    "attributes": ["Tompok Comel", "Dino Head", "Lipstick"],
+    "sumRarityScore": 100.94246031746032,
+    "rank": 22
+  },
+  {
+    "id": 333,
+    "attributes": ["Putih", "Pirate Hat"],
+    "sumRarityScore": 32.196969696969695,
+    "rank": 305
+  },
+  {
+    "id": 334,
+    "attributes": ["Itam Angah", "Hoodie", "Nerd Glass", "Pipe"],
+    "sumRarityScore": 58.00297023701279,
+    "rank": 98
+  },
+  {
+    "id": 335,
+    "attributes": ["Itam Angah", "Clown Hat", "Blind"],
+    "sumRarityScore": 57.646844880887436,
+    "rank": 99
+  },
+  {
+    "id": 336,
+    "attributes": ["Pak Tam", "Eyepatch", "Pipe"],
+    "sumRarityScore": 25.095471903982542,
+    "rank": 402
+  },
+  {
+    "id": 337,
+    "attributes": ["Itam Angah", "Watermelon Helmet"],
+    "sumRarityScore": 49.09983633387888,
+    "rank": 149
+  },
+  {
+    "id": 338,
+    "attributes": ["Tompok Comot", "Watermelon Helmet", "Eyepatch"],
+    "sumRarityScore": 53.94162575013639,
+    "rank": 118
+  },
+  {
+    "id": 339,
+    "attributes": ["Itam Angah", "Witch Hat"],
+    "sumRarityScore": 17.21724524076148,
+    "rank": 479
+  },
+  {
+    "id": 340,
+    "attributes": ["Koko Comel", "Baseball Cap", "Lipstick"],
+    "sumRarityScore": 33.74641347025068,
+    "rank": 284
+  },
+  {
+    "id": 341,
+    "attributes": ["Pak Tam", "Baseball Cap", "Eyepatch"],
+    "sumRarityScore": 21.973593782104423,
+    "rank": 434
+  },
+  {
+    "id": 342,
+    "attributes": ["Koko Comel", "Bread Head"],
+    "sumRarityScore": 39.405684754521964,
+    "rank": 222
+  },
+  {
+    "id": 343,
+    "attributes": [
+      "Tompok Comot",
+      "Watermelon Helmet",
+      "Eyepatch",
+      "Clown Nose"
+    ],
+    "sumRarityScore": 62.006141879168645,
+    "rank": 72
+  },
+  {
+    "id": 344,
+    "attributes": ["Itam Angah", "One Eye Goggle", "Clown Nose"],
+    "sumRarityScore": 52.036147334706015,
+    "rank": 130
+  },
+  {
+    "id": 345,
+    "attributes": ["Koko Comot", "Watermelon Helmet"],
+    "sumRarityScore": 50.366300366300365,
+    "rank": 142
+  },
+  {
+    "id": 346,
+    "attributes": ["Itam Along", "Witch Hat"],
+    "sumRarityScore": 20.092460881934567,
+    "rank": 455
+  },
+  {
+    "id": 347,
+    "attributes": ["Tompok Comot", "Baseball Cap", "Eyepatch", "Face Mask"],
+    "sumRarityScore": 39.83073663924728,
+    "rank": 219
+  },
+  {
+    "id": 348,
+    "attributes": ["Putih", "Witch Hat", "MLG Glass"],
+    "sumRarityScore": 42.942583732057415,
+    "rank": 194
+  },
+  {
+    "id": 349,
+    "attributes": ["Itam Acik", "Robot Head", "One Eye Goggle"],
+    "sumRarityScore": 89.20454545454547,
+    "rank": 27
+  },
+  {
+    "id": 350,
+    "attributes": ["Koko Comel", "Robot Head", "Eyepatch", "Pipe"],
+    "sumRarityScore": 69.35741151475936,
+    "rank": 55
+  },
+  {
+    "id": 351,
+    "attributes": ["Pak Tam", "Straw Hat", "Eyepatch", "Whistle"],
+    "sumRarityScore": 33.633451920835796,
+    "rank": 285
+  },
+  {
+    "id": 352,
+    "attributes": ["Itam Along", "Clown Hat", "3D Glass"],
+    "sumRarityScore": 74.4109494109494,
+    "rank": 44
+  },
+  {
+    "id": 353,
+    "attributes": ["Itam Acik", "Baseball Cap"],
+    "sumRarityScore": 16.91017316017316,
+    "rank": 482
+  },
+  {
+    "id": 354,
+    "attributes": ["Tompok Comot", "Witch Hat", "Face Mask"],
+    "sumRarityScore": 37.256603046076734,
+    "rank": 240
+  },
+  {
+    "id": 355,
+    "attributes": ["Koko Comel", "Pirate Hat", "Funny Glass"],
+    "sumRarityScore": 50.97975882859604,
+    "rank": 136
+  },
+  {
+    "id": 356,
+    "attributes": ["Putih Cantik", "Pirate Hat", "Eyepatch"],
+    "sumRarityScore": 43.49290780141843,
+    "rank": 186
+  },
+  {
+    "id": 357,
+    "attributes": ["Itam Acik", "Straw Hat", "Clown Nose"],
+    "sumRarityScore": 25.523436316825688,
+    "rank": 398
+  },
+  {
+    "id": 358,
+    "attributes": ["Putih Cantik", "Straw Hat", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 37.76634411824413,
+    "rank": 236
+  },
+  {
+    "id": 359,
+    "attributes": ["Koko Comel", "Robot Head"],
+    "sumRarityScore": 57.082452431289646,
+    "rank": 103
+  },
+  {
+    "id": 360,
+    "attributes": ["Putih Cantik", "Hoodie", "Eyepatch", "Face Mask"],
+    "sumRarityScore": 59.747486555997185,
+    "rank": 87
+  },
+  {
+    "id": 361,
+    "attributes": ["Putih Cantik", "Baseball Cap", "Nerd Glass", "Pipe"],
+    "sumRarityScore": 54.62740962740963,
+    "rank": 112
+  },
+  {
+    "id": 362,
+    "attributes": ["Koko Comel", "Baseball Cap", "Eyepatch", "Pipe"],
+    "sumRarityScore": 30.396372553720404,
+    "rank": 340
+  },
+  {
+    "id": 363,
+    "attributes": ["Itam Along", "Clown Nose"],
+    "sumRarityScore": 21.578029642545772,
+    "rank": 437
+  },
+  {
+    "id": 364,
+    "attributes": ["Pak Tam", "Witch Hat", "3D Glass"],
+    "sumRarityScore": 61.06612685560054,
+    "rank": 79
+  },
+  {
+    "id": 365,
+    "attributes": ["Putih", "Witch Hat", "Nerd Glass"],
+    "sumRarityScore": 36.461102250575934,
+    "rank": 249
+  },
+  {
+    "id": 366,
+    "attributes": ["Putih", "Bread Head", "Lipstick"],
+    "sumRarityScore": 54.766414141414145,
+    "rank": 110
+  },
+  {
+    "id": 367,
+    "attributes": ["Itam Angah", "Pirate Hat"],
+    "sumRarityScore": 31.47163120567376,
+    "rank": 316
+  },
+  {
+    "id": 368,
+    "attributes": ["Itam Angah", "Baseball Cap", "Funny Glass"],
+    "sumRarityScore": 35.65032288436544,
+    "rank": 264
+  },
+  {
+    "id": 369,
+    "attributes": ["Itam Angah", "Pipe"],
+    "sumRarityScore": 20.25368248772504,
+    "rank": 453
+  },
+  {
+    "id": 370,
+    "attributes": ["Tompok Comot", "Watermelon Helmet", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 69.56662575013638,
+    "rank": 54
+  },
+  {
+    "id": 371,
+    "attributes": ["Pak Tam", "3D Glass"],
+    "sumRarityScore": 54.48717948717949,
+    "rank": 114
+  },
+  {
+    "id": 372,
+    "attributes": ["Koko Comot", "Witch Hat", "Whistle"],
+    "sumRarityScore": 29.594820384294067,
+    "rank": 356
+  },
+  {
+    "id": 373,
+    "attributes": ["Pak Tam", "Watermelon Helmet", "Eyepatch"],
+    "sumRarityScore": 53.94162575013639,
+    "rank": 119
+  },
+  {
+    "id": 374,
+    "attributes": ["Itam Angah", "Lipstick"],
+    "sumRarityScore": 26.263297872340424,
+    "rank": 391
+  },
+  {
+    "id": 375,
+    "attributes": ["Pak Tam", "Eyepatch", "Cigar"],
+    "sumRarityScore": 30.631602440113078,
+    "rank": 332
+  },
+  {
+    "id": 376,
+    "attributes": ["Koko Comel", "3D Glass", "Clown Nose"],
+    "sumRarityScore": 61.359089772443106,
+    "rank": 76
+  },
+  {
+    "id": 377,
+    "attributes": ["Itam Angah", "Witch Hat", "Nerd Glass", "Face Mask"],
+    "sumRarityScore": 53.59290661642285,
+    "rank": 122
+  },
+  {
+    "id": 378,
+    "attributes": ["Pak Tam", "Witch Hat", "Pipe"],
+    "sumRarityScore": 29.014844804318486,
+    "rank": 366
+  },
+  {
+    "id": 379,
+    "attributes": ["Itam Acik", "Clown Nose"],
+    "sumRarityScore": 18.481182795698924,
+    "rank": 472
+  },
+  {
+    "id": 380,
+    "attributes": ["Tompok Comot", "Dino Head", "Eyepatch"],
+    "sumRarityScore": 86.90865871716936,
+    "rank": 29
+  },
+  {
+    "id": 381,
+    "attributes": ["Tompok Comot", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 31.10508728859793,
+    "rank": 325
+  },
+  {
+    "id": 382,
+    "attributes": ["Itam Acik", "Lipstick"],
+    "sumRarityScore": 26.041666666666664,
+    "rank": 393
+  },
+  {
+    "id": 383,
+    "attributes": ["Koko Comot", "One Eye Goggle"],
+    "sumRarityScore": 45.23809523809524,
+    "rank": 170
+  },
+  {
+    "id": 384,
+    "attributes": ["Koko Comel", "Straw Hat", "Clown Nose"],
+    "sumRarityScore": 26.73467662690321,
+    "rank": 383
+  },
+  {
+    "id": 385,
+    "attributes": ["Itam Angah", "Straw Hat", "Clown Nose"],
+    "sumRarityScore": 25.745067522499447,
+    "rank": 396
+  },
+  {
+    "id": 386,
+    "attributes": ["Itam Along", "Straw Hat", "MLG Glass"],
+    "sumRarityScore": 45.555767034640276,
+    "rank": 167
+  },
+  {
+    "id": 387,
+    "attributes": ["Itam Acik", "Witch Hat", "Clown Nose"],
+    "sumRarityScore": 25.060130164119975,
+    "rank": 403
+  },
+  {
+    "id": 388,
+    "attributes": ["Itam Angah", "Funny Glass", "Whistle"],
+    "sumRarityScore": 40.26792750197005,
+    "rank": 214
+  },
+  {
+    "id": 389,
+    "attributes": ["Itam Acik", "Dino Head", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 92.56932869235547,
+    "rank": 26
+  },
+  {
+    "id": 390,
+    "attributes": ["Tompok Comel", "Eyepatch", "Pipe"],
+    "sumRarityScore": 26.16384797235861,
+    "rank": 392
+  },
+  {
+    "id": 391,
+    "attributes": ["Itam Along", "Straw Hat", "Pipe"],
+    "sumRarityScore": 30.17115165002489,
+    "rank": 344
+  },
+  {
+    "id": 392,
+    "attributes": ["Koko Comot", "Hoodie", "Blind"],
+    "sumRarityScore": 58.91330891330891,
+    "rank": 94
+  },
+  {
+    "id": 393,
+    "attributes": ["Koko Comot", "Robot Head", "MLG Glass"],
+    "sumRarityScore": 82.35930735930737,
+    "rank": 32
+  },
+  {
+    "id": 394,
+    "attributes": ["Itam Angah", "Straw Hat", "Funny Glass"],
+    "sumRarityScore": 36.1990699119857,
+    "rank": 254
+  },
+  {
+    "id": 395,
+    "attributes": ["Pak Tam", "Dino Head", "Eyepatch"],
+    "sumRarityScore": 86.90865871716936,
+    "rank": 30
+  },
+  {
+    "id": 396,
+    "attributes": ["Koko Comel", "Witch Hat", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 36.49142881325035,
+    "rank": 248
+  },
+  {
+    "id": 397,
+    "attributes": ["Koko Comel", "Clown Hat", "Eyepatch"],
+    "sumRarityScore": 33.51825067559852,
+    "rank": 286
+  },
+  {
+    "id": 398,
+    "attributes": ["Putih", "Hoodie", "Eyepatch"],
+    "sumRarityScore": 33.2539800624907,
+    "rank": 290
+  },
+  {
+    "id": 399,
+    "attributes": ["Koko Comel", "Hoodie"],
+    "sumRarityScore": 30.85867620751342,
+    "rank": 328
+  },
+  {
+    "id": 400,
+    "attributes": ["Koko Comot", "Witch Hat", "Eyepatch", "Face Mask"],
+    "sumRarityScore": 39.000426598410925,
+    "rank": 226
+  },
+  {
+    "id": 401,
+    "attributes": ["Legendary Oyen Along", "Straw Hat"],
+    "sumRarityScore": 32.04225352112676,
+    "rank": 312
+  },
+  {
+    "id": 402,
+    "attributes": [
+      "Legendary Oyen Along",
+      "Baseball Cap",
+      "Eyepatch",
+      "Lipstick"
+    ],
+    "sumRarityScore": 49.7780809615916,
+    "rank": 144
+  },
+  {
+    "id": 403,
+    "attributes": ["Legendary Oyen Along", "Whistle"],
+    "sumRarityScore": 36.111111111111114,
+    "rank": 255
+  },
+  {
+    "id": 404,
+    "attributes": ["Chimera", "Baseball Cap"],
+    "sumRarityScore": 39.82683982683983,
+    "rank": 220
+  },
+  {
+    "id": 405,
+    "attributes": ["Chimera", "Bread Head", "Eyepatch", "Whistle"],
+    "sumRarityScore": 74.88179669030733,
+    "rank": 43
+  },
+  {
+    "id": 406,
+    "attributes": ["Siamese", "Baseball Cap", "Clown Nose"],
+    "sumRarityScore": 35.391355955872086,
+    "rank": 266
+  },
+  {
+    "id": 407,
+    "attributes": ["Chimera", "Witch Hat"],
+    "sumRarityScore": 39.91228070175439,
+    "rank": 218
+  },
+  {
+    "id": 408,
+    "attributes": ["Siamese", "Baseball Cap", "Eyepatch", "Face Mask"],
+    "sumRarityScore": 47.84355715206779,
+    "rank": 155
+  },
+  {
+    "id": 409,
+    "attributes": ["Legendary Oyen", "Eyepatch"],
+    "sumRarityScore": 26.469098277608914,
+    "rank": 390
+  },
+  {
+    "id": 410,
+    "attributes": ["Legendary Oyen Along", "Eyepatch"],
+    "sumRarityScore": 27.659574468085108,
+    "rank": 379
+  },
+  {
+    "id": 411,
+    "attributes": ["Legendary Oyen", "Bread Head", "Funny Glass"],
+    "sumRarityScore": 70.1058201058201,
+    "rank": 51
+  },
+  {
+    "id": 412,
+    "attributes": ["Chimera", "Witch Hat", "Eyepatch", "Face Mask"],
+    "sumRarityScore": 60.428998026982356,
+    "rank": 82
+  },
+  {
+    "id": 413,
+    "attributes": ["Chimera", "Eyepatch"],
+    "sumRarityScore": 35.99290780141844,
+    "rank": 257
+  },
+  {
+    "id": 414,
+    "attributes": ["Siamese", "Baseball Cap", "Lipstick"],
+    "sumRarityScore": 42.95183982683983,
+    "rank": 192
+  },
+  {
+    "id": 415,
+    "attributes": ["Legendary Oyen Along", "Clown Nose"],
+    "sumRarityScore": 33.064516129032256,
+    "rank": 293
+  },
+  {
+    "id": 416,
+    "attributes": ["Chimera", "Clown Hat", "Clown Nose"],
+    "sumRarityScore": 60.628618693134825,
+    "rank": 80
+  },
+  {
+    "id": 417,
+    "attributes": ["Legendary Oyen", "Witch Hat", "Eyepatch", "Pipe"],
+    "sumRarityScore": 42.663430261414575,
+    "rank": 197
+  },
+  {
+    "id": 418,
+    "attributes": ["Siamese", "Straw Hat", "Nerd Glass"],
+    "sumRarityScore": 46.394105372978615,
+    "rank": 161
+  },
+  {
+    "id": 419,
+    "attributes": ["Legendary Oyen"],
+    "sumRarityScore": 23.809523809523807,
+    "rank": 413
+  },
+  {
+    "id": 420,
+    "attributes": ["Legendary Oyen", "Witch Hat", "Lipstick"],
+    "sumRarityScore": 46.01347117794486,
+    "rank": 163
+  },
+  {
+    "id": 421,
+    "attributes": ["Siamese", "Hoodie"],
+    "sumRarityScore": 40.06410256410256,
+    "rank": 216
+  },
+  {
+    "id": 422,
+    "attributes": ["Legendary Oyen", "Bread Head", "Night Vision Goggles"],
+    "sumRarityScore": 101.58730158730158,
+    "rank": 20
+  },
+  {
+    "id": 423,
+    "attributes": ["Legendary Oyen Along", "Bread Head", "Eyepatch"],
+    "sumRarityScore": 55.43735224586288,
+    "rank": 108
+  },
+  {
+    "id": 424,
+    "attributes": ["Siamese", "Clown Hat"],
+    "sumRarityScore": 40.06410256410256,
+    "rank": 217
+  },
+  {
+    "id": 425,
+    "attributes": ["Legendary Oyen", "Bread Head", "Eyepatch"],
+    "sumRarityScore": 54.246876055386686,
+    "rank": 117
+  },
+  {
+    "id": 426,
+    "attributes": ["Siamese"],
+    "sumRarityScore": 20.833333333333332,
+    "rank": 446
+  },
+  {
+    "id": 427,
+    "attributes": ["Siamese", "Witch Hat", "Eyepatch", "Whistle"],
+    "sumRarityScore": 41.1829662809506,
+    "rank": 211
+  },
+  {
+    "id": 428,
+    "attributes": ["Legendary Oyen", "Witch Hat", "One Eye Goggle"],
+    "sumRarityScore": 63.721804511278194,
+    "rank": 66
+  },
+  {
+    "id": 429,
+    "attributes": ["Chimera", "Lipstick"],
+    "sumRarityScore": 48.958333333333336,
+    "rank": 150
+  },
+  {
+    "id": 430,
+    "attributes": ["Siamese", "Straw Hat"],
+    "sumRarityScore": 27.875586854460092,
+    "rank": 378
+  },
+  {
+    "id": 431,
+    "attributes": ["Legendary Oyen Along", "Baseball Cap", "Eyepatch"],
+    "sumRarityScore": 34.1530809615916,
+    "rank": 278
+  },
+  {
+    "id": 432,
+    "attributes": ["Legendary Oyen", "Baseball Cap", "Whistle"],
+    "sumRarityScore": 41.41414141414141,
+    "rank": 209
+  },
+  {
+    "id": 433,
+    "attributes": ["Siamese", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 30.07185516983949,
+    "rank": 347
+  },
+  {
+    "id": 434,
+    "attributes": ["Legendary Oyen", "Eyepatch", "Whistle"],
+    "sumRarityScore": 37.58020938872002,
+    "rank": 238
+  },
+  {
+    "id": 435,
+    "attributes": ["Legendary Oyen", "Straw Hat", "One Eye Goggle"],
+    "sumRarityScore": 64.1851106639839,
+    "rank": 64
+  },
+  {
+    "id": 436,
+    "attributes": ["Siamese", "Funny Glass"],
+    "sumRarityScore": 39.35185185185185,
+    "rank": 223
+  },
+  {
+    "id": 437,
+    "attributes": ["Legendary Oyen Along", "Nerd Glass"],
+    "sumRarityScore": 43.51851851851852,
+    "rank": 184
+  },
+  {
+    "id": 438,
+    "attributes": ["Legendary Oyen Along", "3D Glass"],
+    "sumRarityScore": 66.66666666666666,
+    "rank": 58
+  },
+  {
+    "id": 439,
+    "attributes": ["Chimera", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 44.057423930450696,
+    "rank": 182
+  },
+  {
+    "id": 440,
+    "attributes": ["Siamese", "Blind", "Cigar"],
+    "sumRarityScore": 63.76262626262626,
+    "rank": 65
+  },
+  {
+    "id": 441,
+    "attributes": ["Legendary Oyen Along", "Funny Glass"],
+    "sumRarityScore": 43.51851851851852,
+    "rank": 185
+  },
+  {
+    "id": 442,
+    "attributes": ["Chimera", "Baseball Cap", "Eyepatch"],
+    "sumRarityScore": 42.486414294924934,
+    "rank": 199
+  },
+  {
+    "id": 443,
+    "attributes": ["Siamese", "Censored"],
+    "sumRarityScore": 62.5,
+    "rank": 71
+  },
+  {
+    "id": 444,
+    "attributes": ["Legendary Oyen", "Straw Hat"],
+    "sumRarityScore": 30.851777330650567,
+    "rank": 329
+  },
+  {
+    "id": 445,
+    "attributes": ["Legendary Oyen Along"],
+    "sumRarityScore": 25,
+    "rank": 405
+  },
+  {
+    "id": 446,
+    "attributes": ["Siamese", "Pipe"],
+    "sumRarityScore": 30.44871794871795,
+    "rank": 337
+  },
+  {
+    "id": 447,
+    "attributes": ["Siamese", "Straw Hat", "MLG Glass"],
+    "sumRarityScore": 52.875586854460096,
+    "rank": 127
+  },
+  {
+    "id": 448,
+    "attributes": ["Legendary Oyen Along", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 35.72409059711737,
+    "rank": 262
+  },
+  {
+    "id": 449,
+    "attributes": ["Legendary Oyen Along", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 34.701827989211864,
+    "rank": 274
+  },
+  {
+    "id": 450,
+    "attributes": ["Siamese", "Witch Hat", "Face Mask"],
+    "sumRarityScore": 45.269423558897245,
+    "rank": 169
+  },
+  {
+    "id": 451,
+    "attributes": ["Chimera", "Pirate Hat", "Eyepatch"],
+    "sumRarityScore": 56.826241134751776,
+    "rank": 104
+  },
+  {
+    "id": 452,
+    "attributes": ["Siamese", "Hoodie", "Clown Nose"],
+    "sumRarityScore": 48.12861869313482,
+    "rank": 154
+  },
+  {
+    "id": 453,
+    "attributes": ["Legendary Oyen Along", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 34.23852183650616,
+    "rank": 277
+  },
+  {
+    "id": 454,
+    "attributes": ["Legendary Oyen Along", "Baseball Cap", "Censored", "Cigar"],
+    "sumRarityScore": 88.31168831168831,
+    "rank": 28
+  },
+  {
+    "id": 455,
+    "attributes": ["Legendary Oyen Along", "Baseball Cap", "3D Glass"],
+    "sumRarityScore": 73.16017316017316,
+    "rank": 45
+  },
+  {
+    "id": 456,
+    "attributes": ["Legendary Oyen Along", "One Eye Goggle", "Face Mask"],
+    "sumRarityScore": 76.19047619047619,
+    "rank": 40
+  },
+  {
+    "id": 457,
+    "attributes": ["Chimera", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 42.571855169839495,
+    "rank": 198
+  },
+  {
+    "id": 458,
+    "attributes": ["Legendary Oyen", "Witch Hat", "Eyepatch", "Lipstick"],
+    "sumRarityScore": 48.67304564602996,
+    "rank": 152
+  },
+  {
+    "id": 459,
+    "attributes": ["Chimera", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 43.0351613225452,
+    "rank": 191
+  },
+  {
+    "id": 460,
+    "attributes": ["Legendary Oyen", "Baseball Cap", "Eyepatch"],
+    "sumRarityScore": 32.96260477111541,
+    "rank": 295
+  },
+  {
+    "id": 461,
+    "attributes": ["Siamese", "Eyepatch"],
+    "sumRarityScore": 23.49290780141844,
+    "rank": 417
+  },
+  {
+    "id": 462,
+    "attributes": ["Legendary Oyen Along", "Pirate Hat", "Eyepatch", "Cigar"],
+    "sumRarityScore": 63.64442295293358,
+    "rank": 67
+  },
+  {
+    "id": 463,
+    "attributes": ["Legendary Oyen", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 33.04804564602996,
+    "rank": 294
+  },
+  {
+    "id": 464,
+    "attributes": ["Siamese", "Witch Hat", "MLG Glass", "Face Mask"],
+    "sumRarityScore": 70.26942355889724,
+    "rank": 50
+  },
+  {
+    "id": 465,
+    "attributes": ["Chimera", "Eyepatch", "Face Mask"],
+    "sumRarityScore": 53.8500506585613,
+    "rank": 120
+  },
+  {
+    "id": 466,
+    "attributes": ["Legendary Oyen", "Witch Hat"],
+    "sumRarityScore": 30.388471177944858,
+    "rank": 341
+  },
+  {
+    "id": 467,
+    "attributes": ["Chimera", "Pipe"],
+    "sumRarityScore": 42.94871794871795,
+    "rank": 193
+  },
+  {
+    "id": 468,
+    "attributes": ["Siamese", "Nerd Glass"],
+    "sumRarityScore": 39.35185185185185,
+    "rank": 224
+  },
+  {
+    "id": 469,
+    "attributes": ["Siamese", "Baseball Cap", "Funny Glass"],
+    "sumRarityScore": 45.84535834535835,
+    "rank": 165
+  },
+  {
+    "id": 470,
+    "attributes": ["Legendary Oyen", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 34.53361440664117,
+    "rank": 275
+  },
+  {
+    "id": 471,
+    "attributes": ["Legendary Oyen", "Baseball Cap", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 41.027120900147665,
+    "rank": 212
+  },
+  {
+    "id": 472,
+    "attributes": ["Legendary Oyen", "Baseball Cap", "Eyepatch", "Whistle"],
+    "sumRarityScore": 44.07371588222652,
+    "rank": 181
+  },
+  {
+    "id": 473,
+    "attributes": ["Chimera", "Witch Hat", "Blind"],
+    "sumRarityScore": 67.69005847953217,
+    "rank": 56
+  },
+  {
+    "id": 474,
+    "attributes": ["Legendary Oyen Along", "Straw Hat", "Funny Glass"],
+    "sumRarityScore": 50.56077203964528,
+    "rank": 140
+  },
+  {
+    "id": 475,
+    "attributes": ["Siamese", "Lipstick"],
+    "sumRarityScore": 36.45833333333333,
+    "rank": 250
+  },
+  {
+    "id": 476,
+    "attributes": ["Legendary Oyen", "Straw Hat", "Night Vision Goggles"],
+    "sumRarityScore": 80.85177733065056,
+    "rank": 36
+  },
+  {
+    "id": 477,
+    "attributes": ["Legendary Oyen Along", "Clown Hat", "Eyepatch"],
+    "sumRarityScore": 46.89034369885433,
+    "rank": 158
+  },
+  {
+    "id": 478,
+    "attributes": ["Siamese", "Baseball Cap", "Eyepatch", "Cigar"],
+    "sumRarityScore": 45.13792944644008,
+    "rank": 171
+  },
+  {
+    "id": 479,
+    "attributes": ["Legendary Oyen", "Straw Hat", "Eyepatch", "Clown Nose"],
+    "sumRarityScore": 41.57586792776793,
+    "rank": 208
+  },
+  {
+    "id": 480,
+    "attributes": ["Siamese", "Straw Hat", "Eyepatch"],
+    "sumRarityScore": 30.5351613225452,
+    "rank": 336
+  },
+  {
+    "id": 481,
+    "attributes": ["Mak Kau Hijau", "Straw Hat", "Cigar"],
+    "sumRarityScore": 122.19376867264192,
+    "rank": 15
+  },
+  {
+    "id": 482,
+    "attributes": ["Alien", "Eyepatch", "Whistle"],
+    "sumRarityScore": 113.77068557919623,
+    "rank": 18
+  },
+  {
+    "id": 483,
+    "attributes": ["Tulang", "Blind", "Clown Nose"],
+    "sumRarityScore": 160.84229390681003,
+    "rank": 4
+  },
+  {
+    "id": 484,
+    "attributes": ["Mak Kau Hijau", "Hoodie"],
+    "sumRarityScore": 119.23076923076923,
+    "rank": 16
+  },
+  {
+    "id": 485,
+    "attributes": ["Sphynx"],
+    "sumRarityScore": 125,
+    "rank": 13
+  },
+  {
+    "id": 486,
+    "attributes": ["Mak Kau Hijau", "Baseball Cap", "Eyepatch"],
+    "sumRarityScore": 109.1530809615916,
+    "rank": 19
+  },
+  {
+    "id": 487,
+    "attributes": ["Sphynx", "Baseball Cap", "Funny Glass", "Clown Nose"],
+    "sumRarityScore": 158.07654114105725,
+    "rank": 5
+  },
+  {
+    "id": 488,
+    "attributes": ["Alien", "Clown Hat", "Clown Nose"],
+    "sumRarityScore": 127.29528535980148,
+    "rank": 12
+  },
+  {
+    "id": 489,
+    "attributes": ["Alien", "Nerd Glass"],
+    "sumRarityScore": 118.51851851851852,
+    "rank": 17
+  },
+  {
+    "id": 490,
+    "attributes": ["Tulang", "Eyepatch", "Pipe"],
+    "sumRarityScore": 137.27495908346972,
+    "rank": 7
+  },
+  {
+    "id": 491,
+    "attributes": ["Mak Kau Hijau", "Baseball Cap", "Blind"],
+    "sumRarityScore": 134.27128427128426,
+    "rank": 8
+  },
+  {
+    "id": 492,
+    "attributes": ["Alien"],
+    "sumRarityScore": 100,
+    "rank": 23
+  },
+  {
+    "id": 493,
+    "attributes": ["Tulang", "Eyepatch"],
+    "sumRarityScore": 127.65957446808511,
+    "rank": 11
+  },
+  {
+    "id": 494,
+    "attributes": ["Tulang", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 134.23852183650615,
+    "rank": 9
+  },
+  {
+    "id": 495,
+    "attributes": ["Pak Belang", "Witch Hat", "Lipstick"],
+    "sumRarityScore": 272.20394736842104,
+    "rank": 1
+  },
+  {
+    "id": 496,
+    "attributes": ["Pak Belang", "Cigar"],
+    "sumRarityScore": 265.1515151515151,
+    "rank": 2
+  },
+  {
+    "id": 497,
+    "attributes": ["Sphynx", "Witch Hat", "Eyepatch"],
+    "sumRarityScore": 134.23852183650615,
+    "rank": 10
+  },
+  {
+    "id": 498,
+    "attributes": ["Sphynx", "Censored", "Clown Nose"],
+    "sumRarityScore": 174.7311827956989,
+    "rank": 3
+  },
+  {
+    "id": 499,
+    "attributes": ["Alien", "Straw Hat", "Eyepatch", "Cigar"],
+    "sumRarityScore": 124.85334314072703,
+    "rank": 14
+  },
+  {
+    "id": 500,
+    "attributes": ["Mak Kau Hijau", "Watermelon Helmet", "Whistle"],
+    "sumRarityScore": 149.57264957264957,
+    "rank": 6
+  }
+]
