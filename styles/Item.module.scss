@@ -4,22 +4,26 @@
 
 .container {
   margin: 0 10rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
 
   h1 {
     font-size: 2rem;
     font-weight: 500;
-    margin: 0;
+    margin: 0.2rem 0;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 0.2rem 0;
   }
 
   ul {
+    margin: 0.2rem 0;
     padding-left: 0;
   }
 
   li {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     list-style: none;
     line-height: 2rem;
   }
