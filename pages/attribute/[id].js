@@ -1,15 +1,17 @@
 import utilStyles from '../../styles/Utils.module.scss';
 import Link from 'next/link';
 import Image from 'next/image';
+import attributeData from '../../data/attributeData.json';
+import numberData from '../../data/numberData.json';
 
 export const getStaticPaths = async () => {
-  const res = await fetch('http://localhost:3000/api/attributeData');
-  const data = await res.json();
+  // const res = await fetch('http://localhost:3000/api/attributeData');
+  // const data = await res.json();
 
-  const res2 = await fetch('http://localhost:3000/api/numberData');
-  const data2 = await res2.json();
+  // const res2 = await fetch('http://localhost:3000/api/numberData');
+  // const data2 = await res2.json();
 
-  var paths = data.map((curr) => {
+  var paths = attributeData.map((curr) => {
     return {
       params: { id: curr.id.toString() },
     };
@@ -17,9 +19,9 @@ export const getStaticPaths = async () => {
 
   paths = [
     ...paths,
-    ...data2.map((curr) => {
+    ...numberData.map((curr) => {
       return {
-        params: { id: curr.id.toString() },
+        params: { id: curr.id },
       };
     }),
   ];
@@ -32,12 +34,12 @@ export const getStaticPaths = async () => {
 
 export const getStaticProps = async (context) => {
   const id = context.params.id;
-  if (/count/.test(context.params.id)) {
-    const res = await fetch(`http://localhost:3000/api/numberData/${id}`);
-    var data = await res.json();
+  if (/count/.test(id)) {
+    // const res = await fetch(`http://localhost:3000/api/numberData/${id}`);
+    // var data = await res.json();
+    var data = numberData.find((curr) => curr.id == id);
   } else {
-    const res = await fetch(`http://localhost:3000/api/attributeData/${id}`);
-    var data = await res.json();
+    var data = attributeData.find((curr) => curr.id == id);
   }
 
   return {

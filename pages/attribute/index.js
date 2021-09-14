@@ -1,18 +1,25 @@
 import Link from 'next/link';
 import Image from 'next/image';
+import attributeData from '../../data/attributeData.json';
+import numberData from '../../data/numberData.json';
+import rankingData from '../../data/rankingData.json';
 
 export const getStaticProps = async (context) => {
-  const res = await fetch(`http://localhost:3000/api/attributeData/`);
-  const data = await res.json();
+  // const res = await fetch(`http://localhost:3000/api/attributeData/`);
+  // const data = await res.json();
 
-  const res2 = await fetch(`http://localhost:3000/api/numberData/`);
-  const data2 = await res2.json();
+  // const res2 = await fetch(`http://localhost:3000/api/numberData/`);
+  // const data2 = await res2.json();
 
-  const res3 = await fetch(`http://localhost:3000/api/rankingData/`);
-  const data3 = await res3.json();
+  // const res3 = await fetch(`http://localhost:3000/api/rankingData/`);
+  // const data3 = await res3.json();
 
   return {
-    props: { attributeData: data, numberData: data2, rankingData: data3 },
+    props: {
+      attributeData,
+      numberData,
+      rankingData,
+    },
   };
 };
 
