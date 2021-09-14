@@ -12,7 +12,6 @@ function BigImages() {
         layout="responsive"
         className={styles.images}
         alt="KucingPunk pictures"
-        loading="eager"
       ></Image>
     </div>
   );
