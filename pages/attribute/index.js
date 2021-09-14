@@ -25,7 +25,7 @@ function attribute({ attributeData, numberData, rankingData }) {
           <thead>
             <tr>
               <th>Types</th>
-              <th>Amount</th>
+              <th>Total</th>
               <th>NFT</th>
             </tr>
           </thead>
@@ -61,8 +61,8 @@ function attribute({ attributeData, numberData, rankingData }) {
         <table>
           <thead>
             <tr>
-              <th>Attributes Count</th>
-              <th>Amount</th>
+              <th>Attributes Amount</th>
+              <th>Total</th>
               <th>NFT</th>
             </tr>
           </thead>
@@ -70,8 +70,8 @@ function attribute({ attributeData, numberData, rankingData }) {
             {numberData.map((curr) => {
               return (
                 <tr>
-                  <td>{curr.id}</td>
-                  <td>{curr.amount}</td>
+                  <td>{curr.id.match(/\d/g)}</td>
+                  <td>{curr.total}</td>
                   <td>
                     {curr.accId.slice(0, 5).map((curr2) => {
                       return (
@@ -107,7 +107,7 @@ function attribute({ attributeData, numberData, rankingData }) {
             {rankingData.slice(0, 10).map((curr) => {
               return (
                 <tr>
-                  <td>{curr.id}</td>
+                  <td>{curr.id.match(/\d/g)}</td>
                   <td>{curr.NFTid}</td>
                   <td>
                     <Link href={`http://localhost:3000/rarity/${curr.NFTid}`}>
