@@ -14,8 +14,6 @@ function Navbar() {
     setClick(false);
   };
 
-  console.log(click);
-
   return (
     <>
       <div

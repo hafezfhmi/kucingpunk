@@ -4,6 +4,7 @@ import Image from 'next/image';
 import attributeData from '../../data/attributeData.json';
 import numberData from '../../data/numberData.json';
 import styles from '../../styles/Attribute.module.scss';
+import Head from 'next/head';
 
 export const getStaticPaths = async () => {
   // const res = await fetch('http://localhost:3000/api/attributeData');
@@ -51,6 +52,26 @@ export const getStaticProps = async (context) => {
 function Details({ NFT }) {
   return (
     <div className={utilStyles.margin2TopBot}>
+      {/^count/.test(NFT.id) ? (
+        <Head>
+          <title>Attribute Count - {NFT.id.match(/\d/g)}</title>
+          <meta
+            name="description"
+            content={`Details for NFT with attributes amount of ${NFT.id.match(
+              /\d/g
+            )}`}
+          />
+        </Head>
+      ) : (
+        <Head>
+          <title>Attribute Details - {NFT.id}</title>
+          <meta
+            name="description"
+            content={`Details for NFT with attributes ${NFT.id}`}
+          />
+        </Head>
+      )}
+
       <h1 className={styles.attrHeader}>
         {/count/.test(NFT.id) == true
           ? `Attributes count: ${NFT.id.match(/\d/g)}`
