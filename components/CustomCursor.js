@@ -17,6 +17,7 @@ function CustomCursor() {
     distanceY: 0,
     key: -1,
   });
+
   React.useEffect(() => {
     document.addEventListener('mousemove', (event) => {
       var { clientX, clientY } = event;
