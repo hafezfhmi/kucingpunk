@@ -43,6 +43,12 @@ function Navbar() {
           </li>
 
           <li>
+            <Link href="/attribute">
+              <a onClick={navLinkClose}>Attribute</a>
+            </Link>
+          </li>
+
+          <li>
             <Link href="/rarity">
               <a onClick={navLinkClose}>Rarity</a>
             </Link>

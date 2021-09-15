@@ -54,7 +54,7 @@ function Details({ NFT }) {
       <h1 className={styles.attrHeader}>
         {/count/.test(NFT.id) == true
           ? `Attributes count: ${NFT.id.match(/\d/g)}`
-          : `Attributes: ${NFT.id}`}
+          : `Attribute: ${NFT.id}`}
       </h1>
       <h2 className={styles.attrSubHeader}>Total: {NFT.total}</h2>
       {NFT.accId.map((curr) => {
