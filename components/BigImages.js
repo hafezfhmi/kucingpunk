@@ -7,8 +7,8 @@ function BigImages() {
     <div className={styles.BigImages + ' ' + utilStyles.margin2TopBot}>
       <Image
         src="/images/BigImage.png"
-        width="1995"
-        height="4504"
+        width="997.5"
+        height="2252"
         layout="responsive"
         className={styles.images}
         alt="KucingPunk pictures"

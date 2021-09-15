@@ -10,6 +10,12 @@
   & p {
     font-size: 2rem;
   }
+
+  @include respond(phone) {
+    & p {
+      font-size: 1rem;
+    }
+  }
 }
 
 .socials {

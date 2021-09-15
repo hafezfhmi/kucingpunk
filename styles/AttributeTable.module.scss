@@ -1,3 +1,5 @@
+@import 'variables';
+
 .sectionHeader {
   font-size: 1.5rem;
   font-weight: 500;
@@ -12,4 +14,32 @@
 .tableHeader {
   font-size: 1.1rem;
   font-weight: 500;
+
+  @include respond(tab-land) {
+    &:last-child {
+      width: 50%;
+    }
+
+    &:nth-child(2) {
+      padding-left: 1rem;
+    }
+  }
+}
+
+.tableNFT {
+  display: flex;
+  overflow: scroll;
+
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+
+  &::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+  }
+
+  // @include respond(tab-port) {}
+}
+
+.tableSecondtd {
+  padding-left: 1rem;
 }

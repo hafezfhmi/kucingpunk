@@ -1,8 +1,4 @@
-.default {
-  background-color: gray;
-  padding: 0.5rem 2rem;
-  border-radius: 25px;
-}
+@import 'variables';
 
 .bigLink {
   &::after {
@@ -14,5 +10,18 @@
   &:hover::after {
     position: absolute;
     margin-left: 6rem;
+  }
+
+  @include respond(tab-port) {
+    &::after {
+      content: '\2192';
+      transition: all 0.8s;
+      margin-left: 1.5rem;
+    }
+
+    &:hover::after {
+      position: absolute;
+      margin-left: 3.5rem;
+    }
   }
 }

@@ -33,8 +33,8 @@ function AttributeTable({ data, sectionHeader, tableHeader }) {
                     </a>
                   </Link>
                 </td>
-                <td>{curr.total}</td>
-                <td>
+                <td className={styles.tableSecondtd}>{curr.total}</td>
+                <td className={styles.tableNFT}>
                   {curr.accId.slice(0, 5).map((curr2) => {
                     return (
                       <Link href={`http://localhost:3000/rarity/${curr2}`}>
