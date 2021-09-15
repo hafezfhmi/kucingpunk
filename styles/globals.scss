@@ -8,6 +8,10 @@ body {
   color: $black;
   background-color: $white;
   overflow-x: hidden;
+
+  & * {
+    cursor: none;
+  }
 }
 
 // font size

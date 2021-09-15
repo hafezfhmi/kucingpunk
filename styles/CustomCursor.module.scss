@@ -1,0 +1,25 @@
+@import 'variables';
+
+.mainCursor {
+  z-index: 1000;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  background-color: $black;
+  pointer-events: none;
+  overflow: hidden;
+  transform: rotate3d(0, 0, 0);
+  position: fixed;
+}
+
+.secondaryCursor {
+  z-index: 1000;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  border: 1px solid $black;
+  pointer-events: none;
+  overflow: hidden;
+  transform: rotate3d(0, 0, 0);
+  position: fixed;
+}
