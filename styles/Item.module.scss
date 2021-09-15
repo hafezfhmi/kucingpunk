@@ -1,18 +1,33 @@
+@import 'variables';
+
 .Item {
   display: flex;
+  align-items: center;
+
+  @include respond(tab-port) {
+    flex-direction: column;
+  }
+}
+
+.image {
+  width: 30%;
+
+  @include respond(tab-port) {
+    width: 80%;
+  }
 }
 
 .container {
   margin: 0 10rem;
 
   h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 500;
     margin: 0.2rem 0;
   }
 
   h2 {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     font-weight: 500;
     margin: 0.2rem 0;
   }
@@ -23,8 +38,26 @@
   }
 
   li {
-    font-size: 1.2rem;
+    font-size: 1rem;
     list-style: none;
     line-height: 2rem;
+  }
+
+  @include respond(tab-port) {
+    align-self: flex-start;
+    margin: 2rem 0 0 0;
+  }
+}
+
+.smallLink {
+  transition: all 0.8s;
+
+  &::before {
+    content: '\003E';
+    margin-right: 5px;
+  }
+
+  &:hover {
+    color: $color-primary;
   }
 }

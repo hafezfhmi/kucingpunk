@@ -26,7 +26,7 @@ function AttributeTable({ data, sectionHeader, tableHeader }) {
               <tr>
                 <td>
                   <Link href={`http://localhost:3000/attribute/${curr.id}`}>
-                    <a>
+                    <a className={styles.tableAttribute}>
                       {sectionHeader == 'Attributes Amount'
                         ? curr.id.match(/\d/g)
                         : curr.id}

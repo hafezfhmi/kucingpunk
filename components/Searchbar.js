@@ -12,6 +12,7 @@ function Searchbar() {
 
   const changeRoute = (event) => {
     event.preventDefault();
+    setSearchId('');
     router.push(`/rarity/${searchId}`);
   };
 

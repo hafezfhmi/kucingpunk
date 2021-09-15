@@ -1,5 +1,3 @@
-import Link from 'next/link';
-import Image from 'next/image';
 import attributeData from '../../data/attributeData.json';
 import numberData from '../../data/numberData.json';
 import AttributeTable from '../../components/AttributeTable';

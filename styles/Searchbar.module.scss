@@ -9,6 +9,10 @@
   border-bottom: 2px solid $black;
   outline: none;
   transition: all 0.8s;
+
+  @include respond(phone) {
+    width: 60%;
+  }
 }
 
 .Searchbar::-webkit-outer-spin-button,

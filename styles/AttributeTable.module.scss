@@ -11,6 +11,14 @@
   text-align: left;
 }
 
+.tableAttribute {
+  transition: all 0.8s;
+
+  &:hover {
+    color: $color-primary;
+  }
+}
+
 .tableHeader {
   font-size: 1.1rem;
   font-weight: 500;
