@@ -1,6 +1,7 @@
 import styles from '../styles/AttributeTable.module.scss';
 import utilStyles from '../styles/Utils.module.scss';
 import dynamic from 'next/dynamic';
+import React from 'react';
 
 const AttributeTableBody = dynamic(() =>
   import('../components/AttributeTableBody')
@@ -24,9 +25,9 @@ function AttributeTable({ data, sectionHeader, tableHeader }) {
         <tbody>
           {data.map((curr) => {
             return (
-              <>
+              <React.Fragment key={curr.id}>
                 <AttributeTableBody curr={curr} sectionHeader={sectionHeader} />
-              </>
+              </React.Fragment>
             );
           })}
         </tbody>
