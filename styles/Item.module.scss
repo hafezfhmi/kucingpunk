@@ -60,4 +60,8 @@
   &:hover {
     color: $color-primary;
   }
+
+  & b {
+    font-weight: 500;
+  }
 }

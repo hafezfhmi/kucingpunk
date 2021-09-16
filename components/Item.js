@@ -2,6 +2,7 @@ import styles from '../styles/Item.module.scss';
 import utilStyles from '../styles/Utils.module.scss';
 import Image from 'next/image';
 import Link from 'next/link';
+import attributeData from '../data/attributeData.json';
 
 function Item({ NFT }) {
   return (
@@ -24,7 +25,12 @@ function Item({ NFT }) {
           {NFT.attributes.map((curr) => (
             <li key={curr}>
               <Link href={`/attribute/${curr}`}>
-                <a className={styles.smallLink}>{curr}</a>
+                <a className={styles.smallLink}>
+                  {<b>{curr}</b>}
+                  {` out of ${
+                    attributeData.find((curr2) => curr2.id == curr)['total']
+                  } Kucing`}
+                </a>
               </Link>
             </li>
           ))}
