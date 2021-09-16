@@ -12,6 +12,10 @@ body {
   & * {
     cursor: none;
   }
+
+  // SCROLLBAR FOR FIREFOX
+  scrollbar-width: thin;
+  scrollbar-color: #5c7e8f #f1f1f1;
 }
 
 // font size
