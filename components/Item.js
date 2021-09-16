@@ -15,6 +15,7 @@ function Item({ NFT }) {
           layout="responsive"
           placeholder="blur"
           blurDataURL="/images/Placeholder.png"
+          alt={`Kucing NFT with ID: ${NFT.id}`}
         />
       </div>
 
