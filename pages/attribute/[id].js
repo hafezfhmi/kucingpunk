@@ -4,15 +4,9 @@ import Image from 'next/image';
 import attributeData from '../../data/attributeData.json';
 import numberData from '../../data/numberData.json';
 import styles from '../../styles/Attribute.module.scss';
-import Head from 'next/head';
+import SEO from '@bradgarropy/next-seo';
 
 export const getStaticPaths = async () => {
-  // const res = await fetch('http://localhost:3000/api/attributeData');
-  // const data = await res.json();
-
-  // const res2 = await fetch('http://localhost:3000/api/numberData');
-  // const data2 = await res2.json();
-
   var paths = attributeData.map((curr) => {
     return {
       params: { id: curr.id.toString() },
@@ -37,8 +31,6 @@ export const getStaticPaths = async () => {
 export const getStaticProps = async (context) => {
   const id = context.params.id;
   if (/count/.test(id)) {
-    // const res = await fetch(`http://localhost:3000/api/numberData/${id}`);
-    // var data = await res.json();
     var data = numberData.find((curr) => curr.id == id);
   } else {
     var data = attributeData.find((curr) => curr.id == id);
@@ -51,25 +43,11 @@ export const getStaticProps = async (context) => {
 
 function Details({ NFT }) {
   return (
-    <div className={utilStyles.marginMedTopBot}>
+    <main className={utilStyles.marginMedTopBot}>
       {/^count/.test(NFT.id) ? (
-        <Head>
-          <title>Attribute Count - {NFT.id.match(/\d/g)}</title>
-          <meta
-            name="description"
-            content={`Details for NFT with attributes amount of ${NFT.id.match(
-              /\d/g
-            )}`}
-          />
-        </Head>
+        <SEO title={`KucingPunk - Attributes Count: ${NFT.id.match(/\d/g)}`} />
       ) : (
-        <Head>
-          <title>Attribute Details - {NFT.id}</title>
-          <meta
-            name="description"
-            content={`Details for NFT with attributes ${NFT.id}`}
-          />
-        </Head>
+        <SEO title={`KucingPunk - Attribute Details: ${NFT.id}`} />
       )}
 
       <h1 className={styles.attrHeader}>
@@ -77,21 +55,26 @@ function Details({ NFT }) {
           ? `Attributes count: ${NFT.id.match(/\d/g)}`
           : `Attribute: ${NFT.id}`}
       </h1>
+
       <h2 className={styles.attrSubHeader}>Total: {NFT.total}</h2>
+
       {NFT.accId.map((curr) => {
         return (
-          <Link href={`http://localhost:3000/rarity/${curr}`}>
+          <Link href={`/rarity/${curr}`} key={curr}>
             <a>
               <Image
                 src={`/images/NFT-med/${curr}.jpg`}
+                alt={`Kucing NFT with attribute ${NFT.id}`}
                 width="64"
                 height="64"
+                placeholder="blur"
+                blurDataURL="/images/Placeholder.png"
               />
             </a>
           </Link>
         );
       })}
-    </div>
+    </main>
   );
 }
 
