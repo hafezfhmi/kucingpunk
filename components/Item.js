@@ -23,7 +23,7 @@ function Item({ NFT }) {
         <ul>
           {NFT.attributes.map((curr) => (
             <li key={curr}>
-              <Link href={`http://localhost:3000/attribute/${curr}`}>
+              <Link href={`/attribute/${curr}`}>
                 <a className={styles.smallLink}>{curr}</a>
               </Link>
             </li>
