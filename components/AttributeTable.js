@@ -1,10 +1,6 @@
 import styles from '../styles/AttributeTable.module.scss';
 import utilStyles from '../styles/Utils.module.scss';
-import dynamic from 'next/dynamic';
-
-const AttributeTableBody = dynamic(() =>
-  import('../components/AttributeTableBody')
-);
+import AttributeTableBody from '../components/AttributeTableBody';
 
 function AttributeTable({ data, sectionHeader, tableHeader }) {
   return (
