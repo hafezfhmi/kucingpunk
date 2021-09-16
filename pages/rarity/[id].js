@@ -1,6 +1,7 @@
 import Item from '../../components/Item';
-import Searchbar from '../../components/Searchbar';
 import NFTdata from '../../data/NFTdata.json';
+import Searchbar from '../../components/Searchbar';
+import SEO from '@bradgarropy/next-seo';
 
 // https://nextjs.org/docs/basic-features/data-fetching
 // https://www.youtube.com/watch?v=2zRHlqc0_yw
@@ -30,10 +31,11 @@ export const getStaticProps = async (context) => {
 
 function Details({ NFT }) {
   return (
-    <>
+    <main>
+      <SEO title={`KucingPunk - Rarity: ID ${NFT.id}`} />
       <Searchbar />
       <Item NFT={NFT} />
-    </>
+    </main>
   );
 }
 

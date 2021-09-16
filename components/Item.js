@@ -5,17 +5,19 @@ import Link from 'next/link';
 
 function Item({ NFT }) {
   return (
-    <section className={styles.Item + ' ' + utilStyles.marginMedBot}>
+    <figure className={styles.Item + ' ' + utilStyles.marginMedBot}>
       <div className={styles.image}>
         <Image
           src={`/images/NFT-med/${NFT.id}.jpg`}
           height="300"
           width="300"
           layout="responsive"
+          placeholder="blur"
+          blurDataURL="/images/Placeholder.png"
         />
       </div>
 
-      <div className={styles.container}>
+      <figcaption className={styles.container}>
         <h1>Rarity: {NFT.rank} of 500</h1>
         <h2>ID: {NFT.id}</h2>
         <ul>
@@ -27,8 +29,8 @@ function Item({ NFT }) {
             </li>
           ))}
         </ul>
-      </div>
-    </section>
+      </figcaption>
+    </figure>
   );
 }
 
