@@ -1,13 +1,11 @@
 import CustomCursor from '../components/CustomCursor';
 import Layout from '../components/Layout';
 import '../styles/globals.scss';
-import { UseEffectScroll } from 'react-use-smooth-scroll';
-import 'react-use-smooth-scroll/dist/index.css';
 import SEO from '@bradgarropy/next-seo';
 
 function MyApp({ Component, pageProps }) {
   return (
-    <UseEffectScroll>
+    <>
       <SEO
         title="KucingPunk - A collection of Kucing NFT"
         description="KucingPunk is a collection of NFT of kucing or cats uniquely machine generated and ranked by the rarity of their traits."
@@ -65,7 +63,7 @@ function MyApp({ Component, pageProps }) {
       <Layout>
         <Component {...pageProps} />
       </Layout>
-    </UseEffectScroll>
+    </>
   );
 }
 
