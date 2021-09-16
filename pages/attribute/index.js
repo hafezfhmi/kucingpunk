@@ -1,6 +1,7 @@
 import attributeData from '../../data/attributeData.json';
 import numberData from '../../data/numberData.json';
 import AttributeTable from '../../components/AttributeTable';
+import SEO from '@bradgarropy/next-seo';
 
 export const getStaticProps = async () => {
   return {
@@ -14,6 +15,7 @@ export const getStaticProps = async () => {
 function attribute({ attributeData, numberData }) {
   return (
     <main>
+      <SEO title="KucingPunk - NFT Attributes" />
       <AttributeTable
         data={attributeData}
         sectionHeader={'Attributes Type'}

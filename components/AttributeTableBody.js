@@ -33,6 +33,7 @@ const AttributeTableBody = ({ curr, sectionHeader }) => {
                       height="64"
                       layout="fixed"
                       placeholder="blur"
+                      alt="Cat NFT based on the attribute"
                       blurDataURL="/images/Placeholder.png"
                     />
                   </a>
