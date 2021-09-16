@@ -1,10 +1,13 @@
 import styles from '../styles/BigImages.module.scss';
 import utilStyles from '../styles/Utils.module.scss';
 import Image from 'next/image';
+import ScrollContainer from 'react-indiana-drag-scroll';
 
 function BigImages() {
   return (
-    <div className={styles.BigImages + ' ' + utilStyles.margin2TopBot}>
+    <ScrollContainer
+      className={styles.BigImages + ' ' + utilStyles.margin2TopBot}
+    >
       <Image
         src="/images/BigImage.png"
         width="997.5"
@@ -15,7 +18,7 @@ function BigImages() {
         placeholder="blur"
         blurDataURL="/images/Placeholder.png"
       ></Image>
-    </div>
+    </ScrollContainer>
   );
 }
 
