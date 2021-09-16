@@ -4,11 +4,11 @@ import SEO from '@bradgarropy/next-seo';
 
 function Rarity() {
   return (
-    <main>
+    <>
       <SEO title="KucingPunk - Rarity Checker" />
       <Searchbar />
       <EmptySearch />
-    </main>
+    </>
   );
 }
 
