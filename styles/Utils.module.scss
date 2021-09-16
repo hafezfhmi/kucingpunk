@@ -53,7 +53,7 @@
 }
 
 .margin {
-  &Neg2Top {
+  &NegSmallTop {
     margin-top: -2rem;
 
     @include respond(phone) {
@@ -61,7 +61,7 @@
     }
   }
 
-  &2TopBot {
+  &MedTopBot {
     margin: 4rem 0;
 
     @include respond(tab-port) {
@@ -69,7 +69,7 @@
     }
   }
 
-  &2Bot {
+  &MedBot {
     margin-bottom: 4rem;
   }
 }

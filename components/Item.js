@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 function Item({ NFT }) {
   return (
-    <section className={styles.Item + ' ' + utilStyles.margin2Bot}>
+    <section className={styles.Item + ' ' + utilStyles.marginMedBot}>
       <div className={styles.image}>
         <Image
           src={`/images/NFT-med/${NFT.id}.jpg`}

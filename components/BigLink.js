@@ -9,7 +9,9 @@ function Rarity({ url, desc1, desc2 }) {
         <Button url={url} buttonType="bigLink">
           {desc1}
         </Button>
-        <h3 className={utilStyles.headingXS + ' ' + utilStyles.marginNeg2Top}>
+        <h3
+          className={utilStyles.headingXS + ' ' + utilStyles.marginNegSmallTop}
+        >
           *Read: {desc2}
         </h3>
       </Fade>

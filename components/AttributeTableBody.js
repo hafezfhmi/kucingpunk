@@ -13,7 +13,7 @@ const AttributeTableBody = ({ curr, sectionHeader }) => {
       {inView && (
         <>
           <td>
-            <Link href={`http://localhost:3000/attribute/${curr.id}`}>
+            <Link href={`/attribute/${curr.id}`}>
               <a className={styles.tableAttribute}>
                 {sectionHeader == 'Attributes Amount'
                   ? curr.id.match(/\d/g)
@@ -25,7 +25,7 @@ const AttributeTableBody = ({ curr, sectionHeader }) => {
           <td className={styles.tableNFT}>
             {curr.accId.slice(0, 5).map((curr2) => {
               return (
-                <Link href={`http://localhost:3000/rarity/${curr2}`}>
+                <Link href={`/rarity/${curr2}`} key={curr2}>
                   <a>
                     <Image
                       src={`/images/NFT-small/${curr2}.jpg`}

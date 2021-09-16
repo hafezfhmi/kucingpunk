@@ -12,7 +12,11 @@ function Button({ url, buttonType, children }) {
   } else if (buttonType == 'bigLink') {
     return (
       <Link href={url}>
-        <a className={styles.bigLink + ' ' + utilStyles.headingL}>{children}</a>
+        <h2>
+          <a className={styles.bigLink + ' ' + utilStyles.headingL}>
+            {children}
+          </a>
+        </h2>
       </Link>
     );
   }

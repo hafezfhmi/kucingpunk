@@ -21,7 +21,7 @@ function Searchbar() {
       <input
         type="number"
         placeholder="Search..."
-        className={styles.Searchbar + ' ' + utilStyles.margin2TopBot}
+        className={styles.Searchbar + ' ' + utilStyles.marginMedTopBot}
         min="1"
         max="500"
         value={searchId}

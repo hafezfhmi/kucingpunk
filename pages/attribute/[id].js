@@ -51,7 +51,7 @@ export const getStaticProps = async (context) => {
 
 function Details({ NFT }) {
   return (
-    <div className={utilStyles.margin2TopBot}>
+    <div className={utilStyles.marginMedTopBot}>
       {/^count/.test(NFT.id) ? (
         <Head>
           <title>Attribute Count - {NFT.id.match(/\d/g)}</title>

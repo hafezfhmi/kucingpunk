@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@bradgarropy/next-seo": "^1.0.0",
     "next": "^11.1.2",
     "react": "17.0.2",
     "react-cool-inview": "^2.0.7",

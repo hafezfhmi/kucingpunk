@@ -4,19 +4,19 @@ import Image from 'next/image';
 
 function Header() {
   return (
-    <header className={styles.Header + ' ' + utilStyles.margin2TopBot}>
+    <header className={styles.Header + ' ' + utilStyles.marginMedTopBot}>
       <h1 className={utilStyles.headingXL}>KucingPunk</h1>
 
-      <div className={styles.container}>
+      <figure className={styles.container}>
         <Image
           src="/images/KucingPunk.gif"
           height="500"
           width="500"
-          alt="CatPunk gif"
+          alt="5 Catpunk in a short gif"
           loading="eager"
           className={styles.mainImg}
         />
-        <div className={styles.text1 + ' ' + styles.scroll}>
+        <figcaption className={styles.text1 + ' ' + styles.scroll}>
           <div>
             Meow<span>Meow</span>Meow<span>Meow</span>Meow<span>Meow</span>
             Meow<span>Meow</span>Meow<span>Meow</span>
@@ -25,8 +25,8 @@ function Header() {
             Meow<span>Meow</span>Meow<span>Meow</span>Meow<span>Meow</span>
             Meow<span>Meow</span>Meow<span>Meow</span>
           </div>
-        </div>
-        <div className={styles.text2 + ' ' + styles.scroll}>
+        </figcaption>
+        <figcaption className={styles.text2 + ' ' + styles.scroll}>
           <div>
             <span>Meow</span>Meow<span>Meow</span>Meow<span>Meow</span>
             Meow<span>Meow</span>Meow<span>Meow</span>Meow
@@ -35,8 +35,8 @@ function Header() {
             <span>Meow</span>Meow<span>Meow</span>Meow<span>Meow</span>
             Meow<span>Meow</span>Meow<span>Meow</span>Meow
           </div>
-        </div>
-      </div>
+        </figcaption>
+      </figure>
     </header>
   );
 }

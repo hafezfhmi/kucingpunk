@@ -8,21 +8,19 @@ const AttributeTableBody = dynamic(() =>
 
 function AttributeTable({ data, sectionHeader, tableHeader }) {
   return (
-    <section className={utilStyles.margin2TopBot}>
+    <section className={utilStyles.marginMedTopBot}>
       <h1 className={styles.sectionHeader}>{sectionHeader}</h1>
       <table className={styles.table}>
         <thead>
           <tr>
             {tableHeader.map((curr) => (
-              <th
-                key={`${sectionHeader}${curr}`}
-                className={styles.tableHeader}
-              >
+              <th className={styles.tableHeader} key={curr}>
                 {curr}
               </th>
             ))}
           </tr>
         </thead>
+
         <tbody>
           {data.map((curr) => {
             return (

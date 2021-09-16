@@ -2,7 +2,7 @@ import attributeData from '../../data/attributeData.json';
 import numberData from '../../data/numberData.json';
 import AttributeTable from '../../components/AttributeTable';
 
-export const getStaticProps = async (context) => {
+export const getStaticProps = async () => {
   return {
     props: {
       attributeData,
@@ -13,7 +13,7 @@ export const getStaticProps = async (context) => {
 
 function attribute({ attributeData, numberData }) {
   return (
-    <>
+    <main>
       <AttributeTable
         data={attributeData}
         sectionHeader={'Attributes Type'}
@@ -24,7 +24,7 @@ function attribute({ attributeData, numberData }) {
         sectionHeader={'Attributes Amount'}
         tableHeader={['Attributes Amount', 'Total', 'NFT']}
       />
-    </>
+    </main>
   );
 }
 

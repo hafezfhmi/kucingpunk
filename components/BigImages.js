@@ -6,7 +6,7 @@ import ScrollContainer from 'react-indiana-drag-scroll';
 function BigImages() {
   return (
     <ScrollContainer
-      className={styles.BigImages + ' ' + utilStyles.margin2TopBot}
+      className={styles.BigImages + ' ' + utilStyles.marginMedTopBot}
     >
       <Image
         src="/images/BigImage.png"
@@ -14,7 +14,7 @@ function BigImages() {
         height="2252"
         layout="responsive"
         className={styles.images}
-        alt="KucingPunk pictures"
+        alt="All generated KucingPunk in a big picture"
         placeholder="blur"
         blurDataURL="/images/Placeholder.png"
       ></Image>

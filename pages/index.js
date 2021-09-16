@@ -6,19 +6,11 @@ import AttributeRarity from '../components/AttributeRarity';
 
 export default function Home() {
   return (
-    <>
-      <Head>
-        <title>KucingPunk</title>
-        <meta
-          name="description"
-          content="KucingPunk is an NFT collection of 'kucing' or cats inspired by the immensely popular CryptoPunk."
-        />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+    <main>
       <Header />
       <About />
       <BigImages />
       <AttributeRarity />
-    </>
+    </main>
   );
 }

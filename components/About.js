@@ -7,10 +7,12 @@ import Fade from 'react-reveal/Fade';
 
 function About() {
   return (
-    <section className={styles.About + ' ' + utilStyles.margin2TopBot}>
+    <section className={styles.About + ' ' + utilStyles.marginMedTopBot}>
       <Fade bottom>
         <h2 className={utilStyles.headingL}>Meowhat?</h2>
-        <h3 className={utilStyles.headingXS + ' ' + utilStyles.marginNeg2Top}>
+        <h3
+          className={utilStyles.headingXS + ' ' + utilStyles.marginNegSmallTop}
+        >
           *Read: What?
         </h3>
       </Fade>
@@ -39,7 +41,7 @@ function About() {
             src="/images/Cat1.png"
             height="400"
             width="400"
-            alt="Picture of a cat"
+            alt="A black cat"
             placeholder="blur"
             blurDataURL="/images/Placeholder.png"
           ></Image>
