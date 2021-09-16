@@ -28,10 +28,12 @@ const AttributeTableBody = ({ curr, sectionHeader }) => {
                 <Link href={`http://localhost:3000/rarity/${curr2}`}>
                   <a>
                     <Image
-                      src={`/images/NFT-med/${curr2}.jpg`}
+                      src={`/images/NFT-small/${curr2}.jpg`}
                       width="64"
                       height="64"
                       layout="fixed"
+                      placeholder="blur"
+                      blurDataURL="/images/Placeholder.png"
                     />
                   </a>
                 </Link>

@@ -12,6 +12,8 @@ function BigImages() {
         layout="responsive"
         className={styles.images}
         alt="KucingPunk pictures"
+        placeholder="blur"
+        blurDataURL="/images/Placeholder.png"
       ></Image>
     </div>
   );

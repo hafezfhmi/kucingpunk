@@ -42,6 +42,8 @@ function About() {
             height="400"
             width="400"
             alt="Picture of a cat"
+            placeholder="blur"
+            blurDataURL="/images/Placeholder.png"
           ></Image>
         </div>
       </div>
