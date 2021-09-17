@@ -13,7 +13,7 @@ function Header() {
           height="500"
           width="500"
           alt="5 Catpunk in a short gif"
-          loading="eager"
+          priority="true"
           className={styles.mainImg}
         />
         <figcaption className={styles.text1 + ' ' + styles.scroll}>
