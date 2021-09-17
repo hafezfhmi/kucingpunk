@@ -8,6 +8,8 @@ const AttributeTableBody = dynamic(() =>
 );
 
 function AttributeTable({ data, sectionHeader, tableHeader }) {
+  data.sort((a, b) => (a.id > b.id ? 1 : -1));
+
   return (
     <section className={utilStyles.marginMedTopBot}>
       <h1 className={styles.sectionHeader}>{sectionHeader}</h1>
