@@ -15,6 +15,7 @@ function BigImages() {
         layout="responsive"
         className={styles.images}
         alt="All generated KucingPunk in a big picture"
+        priority="true"
         placeholder="blur"
         blurDataURL="/images/Placeholder.png"
       ></Image>

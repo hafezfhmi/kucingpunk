@@ -22,7 +22,7 @@ function About() {
           <Fade bottom>
             <p>KucingPunk is a collection of NFT.</p>
             <hr className={styles.horizontalShort} />
-            <p>Machinely generated with a total of 500 NFT.</p>
+            <p>Machine generated with a total of 500 NFT.</p>
             <hr className={styles.horizontalShort} />
             <p>
               Each NFT is uniquely equipped with different traits and ranked by
@@ -42,6 +42,7 @@ function About() {
             height="400"
             width="400"
             alt="A black cat"
+            priority="true"
             placeholder="blur"
             blurDataURL="/images/Placeholder.png"
           ></Image>
