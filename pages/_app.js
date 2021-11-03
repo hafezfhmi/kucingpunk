@@ -3,6 +3,32 @@ import Layout from '../components/Layout';
 import '../styles/globals.scss';
 import SEO from '@bradgarropy/next-seo';
 
+function Ribbon() {
+  return (
+    <div
+      style={{
+        position: 'fixed',
+        top: '100px',
+        right: '0px',
+        zIndex: '99',
+      }}
+    >
+      <a
+        style={{ display: 'block' }}
+        href="https://www.mwa.my/2021"
+        target="_blank"
+      >
+        <img
+          src="https://www.mwa.my/ribbon/mwa-sotm-ribbon.png"
+          width="68"
+          height="100"
+          alt="Malaysia Website Awards"
+        />
+      </a>
+    </div>
+  );
+}
+
 function MyApp({ Component, pageProps }) {
   return (
     <>
@@ -60,6 +86,7 @@ function MyApp({ Component, pageProps }) {
         }}
       />
       <CustomCursor />
+      <Ribbon />
       <Layout>
         <Component {...pageProps} />
       </Layout>
