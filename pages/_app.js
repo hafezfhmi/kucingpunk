@@ -75,12 +75,12 @@ function MyApp({ Component, pageProps }) {
         ]}
         icon="/images/favicon.ico"
         facebook={{
-          image: '/images/SEOimg.png',
+          image: 'https://kucingpunk.live/images/SEOimgFacebook.png',
           url: 'kucingpunk.live',
           type: 'website',
         }}
         twitter={{
-          image: '/images/SEOimg.png',
+          image: 'https://kucingpunk.live/images/SEOimgTwitter.png',
           site: '@KucingPunkLive',
           card: 'summary',
         }}
