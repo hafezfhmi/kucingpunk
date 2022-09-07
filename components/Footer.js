@@ -1,4 +1,4 @@
-import styles from '../styles/Footer.module.scss';
+import styles from "../styles/Footer.module.scss";
 
 function Footer() {
   return (
@@ -11,8 +11,8 @@ function Footer() {
           <a href="https://app.pentas.io/user/0xbc0821b58c159bb4a164441c10f66abae0509d33">
             pentas
           </a>
-          <a href="https://twitter.com/KucingPunkLive">twitter</a>
-          <a href="mailto:kucingpunkorigin@gmail.com">email</a>
+          <a href="https://twitter.com/KucingPunkNFT">twitter</a>
+          <a href="mailto:kucingpunknft@gmail.com">email</a>
         </div>
       </div>
     </footer>
